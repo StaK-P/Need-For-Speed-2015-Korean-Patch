@@ -1,0 +1,50 @@
+{
+  "game": "Need for Speed (2015)",
+  "category": "06_cars",
+  "edition": "draft-v1",
+  "decisions": {
+    "licensed_makes_models": "제조사·모델·트림과 공식 에디션/연식은 대체로 영어 원문 유지. 식별성과 검색 가능성을 우선",
+    "year_suffix": "(YYYY) 연식은 제거하지 않고 정확히 유지. 다른 연식의 동일 모델을 자동 병합하지 않음",
+    "numbers_codes": "BMW E46/E30, Ferrari F40, Nissan GT-R, V-Spec, Nissan 180SX, Porsche 911, 277 등 번호/코드 식별 정보를 임의 번역하지 않음",
+    "model_typos": "공백·대문자·정식 모델명 Type R/180SX처럼 근거 있는 사소한 표기만 정돈하고 notes에 기록",
+    "factory_customs": "Sil80 Version 시리즈, F132 등의 사용처 불명 표기는 보류하고 실게임에서 부품인지 차량명인지 확인",
+    "trim_ambiguity": "CSL, DTM, GM, GT/GTR 등의 짧은 약칭은 원문 유지하되 후속 문맥 검수로 확정",
+    "localized_story": "매그너스의 Porsche '277'처럼 캐릭터 스토리 문장에서는 브랜드명 원문을 유지하고 문장 부분만 번역",
+    "unrelated_parts": "부품 Calipers, 회사 M2 Motoring, 외관 RSR Widebody 등은 07_parts로 이동",
+    "consistency": "같은 영어 명칭의 다중 ID는 같은 표기를 사용, 사용자 검수로 예외 지시가 있을 때만 별도 해석"
+  },
+  "special_examples": [
+    {
+      "source": "Honda Civic Type-R (2000)",
+      "draft": "Honda Civic Type R (2000)",
+      "why": "정식 모델 Type R의 띄어쓰기"
+    },
+    {
+      "source": "NISSAN 180sx Type X",
+      "draft": "NISSAN 180SX Type X",
+      "why": "차량 코드 180SX 대문자 정규화"
+    },
+    {
+      "source": "NISSAN GT-R  Premium",
+      "draft": "NISSAN GT-R Premium",
+      "why": "이중 공백 제거"
+    },
+    {
+      "source": "Ford Mustang ",
+      "draft": "Ford Mustang",
+      "why": "원문 말미 공백 제거"
+    },
+    {
+      "source": "Toyota Supra SZ-R ",
+      "draft": "Toyota Supra SZ-R",
+      "why": "원문 말미 공백 제거"
+    },
+    {
+      "source": "Lamborghini Murciélago LP 670–4 SV",
+      "draft": "Lamborghini Murciélago LP 670-4 SV",
+      "why": "차량 모델 LP 670-4 하이픈 표기 통일"
+    }
+  ],
+  "review_policy": "사용자 변경 행은 status 비움. 다른 행 보존. 정규화는 ko_text만 변경하고 source_text/string_id/scope 불변",
+  "intermediate_mod_build": false
+}

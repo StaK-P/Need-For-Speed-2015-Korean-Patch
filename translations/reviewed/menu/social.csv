@@ -1,0 +1,79 @@
+string_id,scope,status,ko_text
+0x0F0F9DD9,social,검수완료,친구 추가
+0x5C82B965,social,검수완료,친구 추가
+0xA0BBACC9,social,검수완료,친구 추가
+0x3B11C165,social,검수완료,참가 가능한 크루
+0xEC69C7A6,social,검수완료,이 플레이어를 팔로우할 수 없습니다
+0xF120B527,social,검수완료,매치메이킹 변경
+0x58E64BAE,social,검수완료,크루
+0x5C6E8A70,social,검수완료,크루
+0xB0E1E83D,social,검수완료,크루
+0xE3EB6482,social,검수완료,크루
+0x3024C34F,social,검수완료,크루 정원 초과
+0xFD95FCA8,social,검수완료,크루가 더 이상 존재하지 않습니다
+0x1B31FE5D,social,검수완료,크루 옵션
+0x7E06D7EC,social,검수완료,크루 옵션
+0x7BD0FD60,social,검수완료,크루 설정이 변경됐습니다
+0x572E8CF5,social,검수완료,스냅샷 삭제
+0xCBAC5163,social,검수완료,스냅샷 삭제
+0x6F0501EA,social,검수완료,새 게임 찾기
+0xA9066896,social,검수완료,친구 요청
+0x2254338F,social,검수완료,친구
+0xC6B053B9,social,검수완료,친구
+0xEC384041,social,검수완료,친구
+0x0BFD7AE8,social,검수완료,친구들의 스냅샷 갤러리
+0x0D7DB6A0,social,검수완료,초대
+0x2FA34EE5,social,검수완료,초대
+0x5734B5D3,social,검수완료,모두 초대
+0xF252F7E7,social,검수완료,크루 초대
+0x50BF9A82,social,검수완료,플레이어 초대
+0xB428543C,social,검수완료,플레이어 초대
+0xBD348AF3,social,검수완료,플레이어 초대
+0x2CCB3F45,social,검수완료,크루를 이벤트에 초대
+0xAC0628B2,social,검수완료,크루를 이벤트에 초대
+0x3C74D341,social,검수완료,크루 참가
+0x996E0158,social,검수완료,크루 참가
+0xA705A5FB,social,검수완료,크루 참가
+0xCB01DEE3,social,검수완료,크루 탈퇴
+0xD1563C1E,social,검수완료,크루 탈퇴
+0x18B92F13,social,검수완료,매치메이킹
+0x4F5FCC2C,social,검수완료,최다 좋아요
+0xDCA42658,social,검수완료,멀티플레이
+0x2295AFE6,social,검수완료,함께 아는 친구
+0x653F978D,social,검수완료,함께 아는 친구
+0x3C9D9C5B,social,검수완료,참가 가능한 크루 없음
+0x5D7613A3,social,검수완료,아직 스냅샷에 좋아요가 없습니다. 좋아요를 받으면 REP를 얻을 수 있습니다.
+0xB3D6029B,social,검수완료,이용 가능한 플레이어 없음
+0xB0336063,social,검수완료,이용 가능한 추천 없음
+0xF3727B44,social,검수완료,이용 가능한 추천 없음
+0x1086099E,social,검수완료,볼 수 있는 스냅샷 없음
+0x01A5BECE,social,검수완료,온라인
+0x03CEF4BC,social,검수완료,온라인
+0x2F438BAA,social,검수완료,온라인
+0x460DD023,social,검수완료,온라인
+0xC3A7C278,social,검수완료,온라인
+0x7A698DDD,social,검수완료,플레이어 옵션
+0xE595E76C,social,검수완료,플레이어 옵션
+0x34372F49,social,검수완료,온라인 플레이어
+0x4C06CF03,social,검수완료,온라인 플레이어
+0x354B27C4,social,검수완료,신고
+0x3AE5ADCF,social,검수완료,신고
+0x5AF37D51,social,검수완료,신고
+0xFA4A511B,social,검수완료,신고
+0xC18C7737,social,검수완료,플레이어 선택
+0xBAA22BF2,social,검수완료,신고 보내기
+0x651B165A,social,검수완료,스냅샷과 킥백
+0xAC8A14C5,social,검수완료,스냅샷과 킥백
+0x4168937F,social,검수완료,현재 참가 가능한 크루가 없습니다
+0x24C339BF,social,검수완료,현재 온라인 플레이어가 없습니다
+0xCC4000AF,social,검수완료,이 플레이어에게는 볼 수 있는 스냅샷이 없습니다
+0x3EA255AE,social,검수완료,총 좋아요 수
+0xA942C512,social,검수완료,총 좋아요 수
+0x4D1E735D,social,검수완료,총 스냅샷 수
+0xB5CDCA0C,social,검수완료,크루 보기
+0xD24EE29B,social,검수완료,크루 보기
+0x1DC3F4E3,social,검수완료,플레이어 랩핑 보기
+0x75C3C707,social,검수완료,추천 친구가 없습니다. 친구를 더 추가하면 함께 아는 친구를 확인할 수 있습니다.
+0xEF2805EA,social,검수완료,아직 좋아요를 누른 스냅샷이 없습니다
+0xBCA39805,social,검수완료,친구들의 스냅샷에 아직 좋아요가 없습니다. 좋아요를 눌러 REP를 선물해 보세요.
+0x90FB352C,social,검수완료,친구들이 아직 스냅샷을 찍지 않았습니다

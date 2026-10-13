@@ -1,0 +1,96 @@
+string_id,scope,status,ko_text
+0xDE679328,settings,검수완료,AllDrive 설정
+0x7E7465E9,settings,검수완료,앰비언트 오클루전
+0xA9F1B35A,settings,검수완료,설정 적용
+0xBE1A87D4,settings,검수완료,설정을 적용할까요? {0:s}초 후 이전 설정으로 돌아가기.
+0x23DBD376,settings,검수완료,설정을 초기화할까요?
+0x948AA9B0,settings,검수완료,오디오
+0x8DDC871D,settings,검수완료,오디오 설정
+0x9D22A984,settings,검수완료,오디오 설정
+0x252F9DA9,settings,검수완료,브레이크 데드존
+0x2573E573,settings,검수완료,브레이크 강도
+0xA608F934,settings,검수완료,밝기
+0xACBA1A45,settings,검수완료,밝기
+0x41F8B38F,settings,검수완료,색수차
+0x24F0B9F6,settings,검수완료,조작
+0x857B129F,settings,검수완료,조작
+0x8F8185C1,settings,검수완료,조작
+0x9BF1CF12,settings,검수완료,경찰 음성
+0x8A542590,settings,검수완료,제작진
+0x9483C7CE,settings,검수완료,제작진
+0xE3BF9B29,settings,검수완료,제작진
+0x26F6F4DF,settings,검수완료,피사계 심도
+0x87D9C619,settings,검수완료,게임 모드 정보 표시
+0x98B8377A,settings,검수완료,미니맵 표시
+0xD33A4089,settings,검수완료,푸시 알림 표시
+0xF64D1D6D,settings,검수완료,속도계 표시
+0x14E52BC6,settings,검수완료,피사계 심도 강도
+0x61EC5EAD,settings,검수완료,효과
+0x85F754E1,settings,검수완료,이펙트 디테일
+0xA4856463,settings,검수완료,효과음 볼륨
+0x9CD44A82,settings,검수완료,최종 사용자 라이선스 계약
+0xD49A4409,settings,검수완료,최종 사용자 라이선스 계약
+0x6CC4D8E9,settings,검수완료,노출 보정
+0x3B203933,settings,검수완료,추가 설정
+0x3351FB77,settings,검수완료,필름 그레인
+0x6533B6F3,settings,검수완료,필름 그레인
+0x2A687851,settings,검수완료,전체 화면
+0x9CD4E23B,settings,원문유지,
+0xEE45F6B4,settings,검수완료,게임패드
+0x1EA95DE8,settings,검수완료,게임패드 설정
+0x2FC145FC,settings,검수완료,게임패드 튜닝
+0x24EA0E65,settings,검수완료,게임 설정
+0xDE819D4C,settings,검수완료,게임 설정
+0x7F379697,settings,검수완료,게임 이용 안내
+0xB8742957,settings,검수완료,게임 이용 안내
+0x73DAA975,settings,검수완료,감마 보정
+0x785BEEA3,settings,검수완료,그래픽 설정
+0xCE33A45C,settings,검수완료,그래픽 설정
+0x20F77A50,settings,검수완료,핸드브레이크
+0x3F25FF1D,settings,검수완료,핸드브레이크
+0x855D07E9,settings,검수완료,핸드브레이크
+0xAABAF9D7,settings,검수완료,핸드브레이크
+0x9CD59D75,settings,원문유지,
+0x4BE6A65D,settings,검수완료,헤드라이트 그림자
+0x5CABD7A1,settings,검수완료,키보드
+0x35A8B88E,settings,검수완료,키보드 추가 설정
+0xC3E5D89C,settings,검수완료,키보드 설정
+0xCC94812B,settings,검수완료,키보드 설정
+0xA3DC2FA1,settings,검수완료,법적 문서
+0xA86AC378,settings,검수완료,법적 문서
+0x65F0E388,settings,검수완료,법적 고지
+0xA0D2AB11,settings,검수완료,렌즈 왜곡 강도
+0x877E8D2D,settings,검수완료,렌즈 플레어
+0xAF613874,settings,검수완료,조명
+0x10C0B347,settings,검수완료,수동 변속
+0xD06A2357,settings,검수완료,수동 변속
+0xFDEB4EA5,settings,검수완료,모션 블러
+0xB9CE9DF0,settings,검수완료,음악
+0xCCEBB073,settings,검수완료,음악 볼륨
+0x1C0CE41E,settings,검수완료,차량별 설정
+0x8C42B12D,settings,검수완료,플레이리스트 음악
+0x8D3ACF56,settings,검수완료,개인정보 설정
+0xEFDECFAF,settings,검수완료,개인정보 설정
+0x6A13BB77,settings,검수완료,추격전 음악
+0xACE0A275,settings,검수완료,빗물 효과
+0x2D869862,settings,검수완료,설정 초기화
+0xF897794E,settings,검수완료,화면 해상도
+0x8A3D32B6,settings,검수완료,그림자
+0x8ECFAAA9,settings,검수완료,그림자 품질
+0x37B09CFB,settings,검수완료,다음 음악으로 넘기기
+0xFDAF7F02,settings,검수완료,다음 음악으로 넘기기
+0x9CDBEDF1,settings,원문유지,
+0x1D03575A,settings,검수완료,자막
+0x9063C351,settings,원문유지,
+0x4D1D08FA,settings,검수완료,서비스 이용약관
+0x8BB7CB0D,settings,검수완료,서비스 이용약관
+0x8F6006C8,settings,검수완료,서비스 이용약관
+0xA7F1A774,settings,검수완료,텍스처 품질
+0x8F642AB4,settings,검수완료,전체 화면을 종료하려면
+0x38905BCE,settings,검수완료,수직 동기화
+0xA46970DD,settings,검수완료,비네팅
+0x36B57BEC,settings,검수완료,비네팅 크기
+0xC24B41F3,settings,검수완료,음성 채팅 설정
+0x6FAF00EF,settings,검수완료,스티어링 휠 설정
+0xE97E5B23,settings,검수완료,스티어링 휠 튜닝
+0xD81BAE57,settings,검수완료,창 모드

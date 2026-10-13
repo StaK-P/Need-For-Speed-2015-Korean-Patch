@@ -1,0 +1,130 @@
+string_id,scope,status,ko_text
+0x4C137158,events,검수완료,획득한 점수
+0xDB11B5BB,events,검수완료,획득한 점수
+0x26A76416,events,검수완료,최고 기록
+0x169E04ED,events,검수완료,최고 랩 타임
+0x35ADE5DC,events,검수완료,최고 랩 타임
+0x38B6C066,events,검수완료,챌린지 완료
+0x68E5EAAA,events,검수완료,챌린지 완료
+0x1417CCED,events,검수완료,레이서에게 도전
+0x70737124,events,검수완료,체크포인트
+0x88E0DDAD,events,검수완료,서킷 레이스
+0xD53798ED,events,검수완료,서킷 레이스
+0x314188B5,events,검수완료,깔끔한 주행
+0x8CF5DA80,events,검수완료,깔끔한 주행
+0x7A68C6A3,events,검수완료,완료
+0x85A3402E,events,검수완료,완료
+0xE6201149,events,검수완료,완료 시간
+0xFDB43EAC,events,검수완료,완료 시간
+0x317E2145,events,검수완료,미완주
+0xA36E093C,events,검수완료,미완주
+0x30356798,events,검수완료,드래그 레이스
+0x35A71D58,events,검수완료,드래그 레이스
+0xCBBFD215,events,검수완료,드래그 레이스
+0x80DD39E3,events,검수완료,드리프트 콘테스트
+0x8D148B24,events,검수완료,드리프트 콘테스트
+0x9FC49498,events,검수완료,드리프트 콘테스트
+0xD06FB358,events,검수완료,드리프트 콘테스트
+0x10C6934C,events,검수완료,드리프트 코너
+0xDC766995,events,검수완료,드리프트 코너
+0x7846DBAC,events,검수완료,드리프트 코너
+0x1C1654E9,events,검수완료,드리프트 배틀
+0x2E4C6D16,events,검수완료,드리프트 트레인
+0xA000D4E1,events,검수완료,드리프트 트레인
+0xC477FE56,events,검수완료,드리프트 트레인
+0xF40E78F6,events,검수완료,드리프트 트레인
+0x2E4C8E14,events,검수완료,드리프트 트라이얼
+0xA000F5DF,events,검수완료,드리프트 트라이얼
+0xC4781F54,events,검수완료,드리프트 트라이얼
+0x3ED16E3C,events,검수완료,드라이버 정보
+0xD437AC92,events,검수완료,드라이버 정보
+0xA8FF8F11,events,검수완료,이벤트
+0x5E799DBF,events,검수완료,이벤트 주최자
+0xADDE8517,events,검수완료,이벤트 REP
+0x26992538,events,검수완료,이벤트 순위 - {0:s}
+0x4E412662,events,검수완료,이벤트 시작
+0x343ADFB7,events,검수완료,실패
+0x9B48CD91,events,검수완료,실패
+0xD8789794,events,검수완료,실패
+0x3398D669,events,검수완료,최종 점수
+0x912E2230,events,검수완료,완주
+0x99A5E59D,events,검수완료,완주
+0xBCCADF03,events,검수완료,완주 시간
+0x1C986F81,events,검수완료,완료
+0xF232A96E,events,검수완료,완료
+0xA3BB26F8,events,검수완료,금메달
+0x1B20064B,events,검수완료,금메달
+0x2C135EAF,events,검수완료,짐카나
+0xF5B4D4D0,events,검수완료,짐카나
+0x9890A2B0,events,검수완료,고속 주행
+0xACA2989C,events,검수완료,진행 중
+0x595983A1,events,검수완료,미완료
+0x8D599A53,events,검수완료,이벤트 나가기
+0xCF1E87B2,events,검수완료,이벤트 나가기
+0x24743396,events,검수완료,최고 속도
+0x2EED34B0,events,검수완료,최고 수배자
+0x0EE4AA41,events,검수완료,니어 미스
+0xF3B61EF1,events,검수완료,니어 미스
+0x6A79FD56,events,검수완료,니어 미스
+0xB9B9A869,events,검수완료,니어 미스
+0xF0EEB5DC,events,검수완료,니어 미스
+0x56D7958C,events,검수완료,아웃런
+0xD59DE318,events,검수완료,아웃런
+0x498B33B8,events,검수완료,아웃런 레이스
+0x05476F58,events,검수완료,퍼펙트
+0x5BC92A39,events,검수완료,퍼펙트
+0x5A319DE2,events,검수완료,완벽한 니트로
+0xB9330C76,events,검수완료,성능 등급
+0xFCA1B5D2,events,검수완료,성능 등급
+0xE78E5B04,events,검수완료,챌린지 플레이
+0x0546D4A5,events,검수완료,순위
+0x064CC3D9,events,검수완료,순위
+0x82207888,events,검수완료,순위
+0x3479156B,events,검수완료,추격전
+0xC39BC31E,events,검수완료,추격전
+0x3C78F89A,events,검수완료,REP의 제왕
+0x2C74A567,events,검수완료,REP 레벨
+0x64113C31,events,검수완료,REP 레벨
+0x7939D4DD,events,검수완료,REP 레벨
+0xBD8FD49C,events,검수완료,REP 레벨
+0xDFC8A0D5,events,원문유지,
+0x0BEBA8AA,events,검수완료,이벤트 다시 시작
+0x39CC40A3,events,검수완료,결과
+0xCA5E259E,events,검수완료,결과
+0xFB99C9E5,events,검수완료,보상
+0x55905DE0,events,검수완료,바리케이드
+0x079C1A33,events,검수완료,바리케이드
+0x97C0A2A7,events,검수완료,점수 스피드월
+0x035AFEEE,events,검수완료,챌린지 선택
+0x5DC47559,events,검수완료,스피드 런
+0xFE494AD0,events,검수완료,스피드 런
+0xDB874230,events,검수완료,스피드 런
+0x2B547323,events,검수완료,스피드리스트 순위 - {0:s}
+0x47F912C9,events,검수완료,스피드월
+0xC281F60C,events,검수완료,스피드월
+0x7694FFB7,events,검수완료,즉석 드리프트
+0xAC23FC13,events,검수완료,즉석 이벤트
+0x68788339,events,검수완료,즉석 레이스
+0x044DD506,events,검수완료,스프린트 레이스
+0x5EC0AA65,events,검수완료,스프린트 레이스
+0x8337D3DA,events,검수완료,스프린트 레이스
+0xA932499A,events,검수완료,스프린트 레이스
+0x6CC7DBBC,events,검수완료,이벤트 시작
+0x86A02C5B,events,검수완료,이벤트 시작
+0x85529007,events,검수완료,목표 점수
+0xCC8F0DBE,events,검수완료,목표 점수
+0xAB4CEBB2,events,검수완료,목표 시간
+0xD57F451A,events,검수완료,목표 시간
+0x8E51B0E6,events,검수완료,타임 어택
+0xBFE3EF51,events,검수완료,타임 어택
+0xE45B18C6,events,검수완료,타임 어택
+0x3044250E,events,검수완료,플레이 시간
+0xE24687D8,events,검수완료,플레이 시간
+0x5046137A,events,검수완료,타임 스피드월
+0x8C22FF2A,events,검수완료,타임 트라이얼
+0xC155B055,events,검수완료,타임 트라이얼
+0xC797134A,events,검수완료,타임 트라이얼
+0xF02F976E,events,검수완료,최고 속도
+0xFC89A0F0,events,검수완료,총점
+0x169BB1E3,events,검수완료,일반 차량 또는 경찰차
+0xEA11EE96,events,검수완료,일반 차량 또는 경찰차

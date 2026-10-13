@@ -1,0 +1,194 @@
+string_id,scope,status,ko_text
+0xAADC84BF,garage,검수완료,에어 필터
+0xE0E7E260,garage,검수완료,에어 필터
+0x0AA6A0F3,garage,검수완료,도색 적용
+0x2333C1DC,garage,검수완료,뒷바퀴 휠에 적용
+0x0C2A6C41,garage,검수완료,랩핑 적용
+0x1B78BCF5,garage,검수완료,랩핑 적용
+0x6A433364,garage,검수완료,랩핑 적용
+0x79FDB5B7,garage,검수완료,랩핑 적용
+0x9789CB2B,garage,검수완료,랩핑 적용
+0xCED4A76F,garage,검수완료,랩핑 적용
+0x17341680,garage,검수완료,차고에서 나갈까요?
+0x1CB5AE14,garage,검수완료,바디킷
+0x7390574F,garage,검수완료,바디킷
+0x923FAF8C,garage,검수완료,바디킷
+0x4756119D,garage,검수완료,차체 손상
+0x423EAD9E,garage,검수완료,브레이크 디스크
+0x5BF889F9,garage,검수완료,브레이크 디스크
+0xD95EED54,garage,검수완료,브레이크 디스크
+0x32C9AE42,garage,검수완료,브레이크
+0x4410BBA4,garage,검수완료,브레이크
+0xB1B70817,garage,검수완료,브레이크
+0xFF726A35,garage,검수완료,브레이크
+0xB81C3881,garage,검수완료,범퍼
+0x1607E455,garage,검수완료,제한된 아이템 구매
+0x36390B36,garage,검수완료,캘리퍼
+0x3BA2448D,garage,검수완료,캘리퍼
+0xE4C79B52,garage,검수완료,캘리퍼
+0x91E9A504,garage,검수완료,캠샤프트
+0xFE3E6525,garage,검수완료,캠샤프트
+0x8B20EA88,garage,검수완료,차량
+0x28900BD0,garage,검수완료,휠 변경
+0x01661D60,garage,검수완료,클러치
+0x4DCE3293,garage,검수완료,클러치
+0xB3AABB42,garage,검수완료,클러치
+0x6345275E,garage,검수완료,컨트롤 암
+0x540E36D3,garage,검수완료,냉각 시스템
+0x2529B4FD,garage,검수완료,현재 랩핑
+0x1092B0A1,garage,검수완료,커스텀 부품
+0x22E8C514,garage,검수완료,커스텀 부품
+0x2CFCC7BC,garage,검수완료,커스텀 랩핑
+0x355ED4FD,garage,검수완료,도색 커스터마이징
+0x346136BC,garage,검수완료,실린더 헤드
+0xD3D4813D,garage,검수완료,실린더 헤드
+0x4F7090AB,garage,검수완료,데칼
+0x8561E53D,garage,검수완료,데칼
+0x8561E53E,garage,검수완료,데칼
+0x3D35E64E,garage,검수완료,디퍼렌셜
+0xB2FFF70A,garage,검수완료,디퍼렌셜
+0x980C454E,garage,검수완료,디퓨저
+0x197ED3C4,garage,검수완료,차고에서 나갈까요?
+0x1926C09B,garage,검수완료,드리프트
+0x202DE367,garage,검수완료,드리프트
+0x410C3928,garage,검수완료,드리프트
+0x93E453EE,garage,검수완료,드리프트
+0xAC05D873,garage,검수완료,드리프트
+0xAC37DC55,garage,검수완료,드리프트
+0xB6E0C298,garage,검수완료,드리프트
+0xD2158D81,garage,검수완료,드리프트
+0xF504B775,garage,검수완료,드리프트
+0x4559221A,garage,원문유지,
+0x6725BB3C,garage,검수완료,ECU
+0x78E95C2D,garage,검수완료,전기 시스템
+0xAF5668EE,garage,검수완료,전기 시스템
+0x2EB77BF4,garage,검수완료,엔진
+0x30722BDE,garage,검수완료,엔진 블록
+0x4316D95F,garage,검수완료,엔진 블록
+0x1A52F270,garage,검수완료,차고에 들어갈까요?
+0x2AA2ED29,garage,검수완료,배기 매니폴드
+0xD4417CCA,garage,검수완료,배기 매니폴드
+0xA1A5A8A5,garage,검수완료,배기 시스템
+0xF9E17544,garage,검수완료,배기 시스템
+0x0B94AE38,garage,검수완료,배기장치
+0x80CD62F1,garage,검수완료,차고 나가기
+0x99A2A11F,garage,검수완료,차고 나가기
+0xDAE1EDA4,garage,검수완료,차고 나가기
+0xD10668CA,garage,검수완료,펜더
+0xFF1555E6,garage,검수완료,펜더
+0x345C85C6,garage,검수완료,도색과 랩핑 편집을 끝낼까요?
+0x3F71D45E,garage,검수완료,과급 시스템
+0x83A266BD,garage,검수완료,과급 시스템
+0x63270F6A,garage,검수완료,앞바퀴
+0x773B624E,garage,검수완료,연료 시스템
+0xF2AC722F,garage,검수완료,연료 시스템
+0x074F05E6,garage,검수완료,완전 조절식 서스펜션
+0x59E10E88,garage,검수완료,차고
+0xBC895006,garage,검수완료,차고
+0xD2BF4BF8,garage,검수완료,차고 확장
+0x004F102F,garage,검수완료,변속기
+0x1BB9B622,garage,검수완료,변속기
+0x98F12EF1,garage,검수완료,그립
+0x842041F3,garage,검수완료,핸들링 스타일
+0x09189C24,garage,검수완료,핸들링 튜닝
+0xA5433259,garage,검수완료,핸들링 튜닝
+0xC937756B,garage,검수완료,핸들링 튜닝
+0xFE1C7FB8,garage,검수완료,핸들링 튜닝
+0xC588C4FF,garage,검수완료,차고로 이동
+0x88AFC600,garage,검수완료,보닛
+0x3DF208C4,garage,검수완료,흡기 매니폴드
+0xD3C0DE23,garage,검수완료,흡기 매니폴드
+0x324A7608,garage,검수완료,차고로 이동
+0xDB75BBA3,garage,검수완료,차고로 이동
+0x11DC972B,garage,검수완료,번호판
+0x85D5CA32,garage,검수완료,번호판
+0xCB2DFD92,garage,검수완료,번호판
+0x38B8168D,garage,검수완료,번호판 배경
+0x43B8B1B8,garage,검수완료,번호판 프레임
+0x889E552E,garage,검수완료,라이트
+0xC86B014A,garage,검수완료,라이트
+0x79A0D203,garage,검수완료,잠김
+0xBA5FB5C6,garage,검수완료,잠김
+0xD3C6C88F,garage,검수완료,잠김
+0x86E9AEA6,garage,검수완료,사이드미러
+0x0D43FF5D,garage,검수완료,내 랩핑
+0x35999463,garage,검수완료,내 랩핑
+0xFE844BDC,garage,검수완료,내 랩핑
+0x34B0EBC3,garage,검수완료,니트로
+0x424326D6,garage,검수완료,니트로
+0x44F52CCF,garage,검수완료,니트로
+0x90457BEF,garage,검수완료,니트로
+0xB72C823C,garage,검수완료,니트로
+0x8B2BEAB2,garage,검수완료,니트로 시스템
+0x1B3DFDCE,garage,검수완료,보유 중
+0x31CAF51B,garage,검수완료,도색
+0x0A51AEED,garage,검수완료,부품 보관함
+0x765300C9,garage,검수완료,부품 보관함
+0x9405A9BA,garage,검수완료,부품 보관함
+0x97979742,garage,검수완료,부품 보관함
+0x596A5B3C,garage,검수완료,성능 커스터마이징
+0x770CA2A6,garage,검수완료,성능 커스터마이징
+0x2E2949C6,garage,검수완료,성능 튜닝
+0x04ECE893,garage,검수완료,프리셋
+0x64838311,garage,검수완료,프리셋
+0x8A3A0869,garage,검수완료,프리셋 랩핑
+0xFC68ABF1,garage,검수완료,프리셋 랩핑
+0x0AEF1316,garage,검수완료,프리셋
+0x83004744,garage,검수완료,프리셋
+0xC4807BA7,garage,검수완료,프리셋
+0x0F30DC9C,garage,검수완료,구매하고 장착할까요?
+0x1B3B046C,garage,검수완료,차량을 구매할까요?
+0x1E16C8B1,garage,검수완료,구매 진행 중
+0xB8150F07,garage,검수완료,구매할까요?
+0x2F74918B,garage,검수완료,뒷바퀴
+0x433B5360,garage,검수완료,플레이어 내보내기
+0x6C0ADB9C,garage,검수완료,플레이어 내보내기
+0x1867B038,garage,검수완료,데칼 초기화
+0x2897965D,garage,검수완료,모든 부품 되돌리기(휠 제외)
+0x013AE0E8,garage,검수완료,모든 부품 되돌리기(휠 포함)
+0x249DA035,garage,검수완료,휠
+0x4BE45C7A,garage,검수완료,휠
+0xC182695E,garage,검수완료,휠
+0x15F58EA9,garage,검수완료,데칼 그룹 저장
+0x29362969,garage,검수완료,저장된 랩핑:
+0x19FD1FBE,garage,검수완료,사이드 스커트
+0x1A5037E8,garage,검수완료,사이드 스커트
+0x9C96BC63,garage,검수완료,사이드 스커트
+0xC6A452CF,garage,검수완료,차고 낮추기
+0xC26B2F91,garage,검수완료,스냅샷 프로 모드
+0xC3C8710F,garage,검수완료,스냅샷 프로 모드
+0x7142E1CC,garage,검수완료,사운드 시스템
+0x9B75B087,garage,검수완료,사운드 시스템
+0x9C2BF60B,garage,검수완료,사운드 시스템
+0xF244D46D,garage,검수완료,스플리터
+0xF22F4034,garage,검수완료,스포일러
+0x29DBC2CE,garage,검수완료,보관소
+0x49EABD73,garage,검수완료,보관소
+0x0F84FFCD,garage,검수완료,강도
+0xA9D7E474,garage,검수완료,서스펜션
+0x1340D04A,garage,검수완료,서스펜션 튜닝
+0xDD7F8D6A,garage,검수완료,서스펜션 튜닝
+0xB3A70675,garage,검수완료,스태빌라이저
+0xD7F38E69,garage,검수완료,스태빌라이저
+0x86A2E605,garage,검수완료,타이어
+0xB875EBA1,garage,검수완료,타이어
+0xC8943086,garage,검수완료,타이어
+0xD4F9E66A,garage,검수완료,타이어
+0x5BF31D4B,garage,검수완료,잠금 해제 조건
+0xEAF3D503,garage,검수완료,트렁크 리드
+0x252FA534,garage,검수완료,잠금 해제
+0xB8689091,garage,검수완료,차량
+0x1167AB1E,garage,검수완료,외관 커스터마이징
+0x68B2866C,garage,검수완료,외관 커스터마이징
+0x7259EBAC,garage,검수완료,외관 커스터마이징
+0xC71580D3,garage,검수완료,외관 커스터마이징 업데이트
+0x2CAA6F0D,garage,검수완료,차고 조절 슬라이더
+0x4381EFC8,garage,검수완료,휠 위치
+0xEB842D55,garage,검수완료,유리 틴팅
+0x36442DC0,garage,검수완료,랩핑 에디터
+0x51FC9100,garage,검수완료,랩핑 에디터
+0xC4C05832,garage,검수완료,랩핑 공유
+0xE634B36D,garage,검수완료,랩핑 공유
+0xABFC6ADF,garage,검수완료,랩핑 텍스트가 너무 복잡합니다
+0x9DEE019B,garage,검수완료,랩핑이 너무 복잡합니다
+0xC680D514,garage,검수완료,랩핑

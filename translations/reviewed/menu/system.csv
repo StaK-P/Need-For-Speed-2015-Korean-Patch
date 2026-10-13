@@ -1,0 +1,48 @@
+string_id,scope,status,ko_text
+0x1FFCB7A5,system,검수완료,수락
+0x38684A7C,system,검수완료,수락
+0x8E24F2F9,system,검수완료,수락
+0xD27721AF,system,검수완료,수락
+0x8EFAAAC5,system,검수완료,주의
+0x1DB683DD,system,검수완료,뒤로
+0x5C6DB570,system,검수완료,뒤로
+0x8B205C30,system,검수완료,뒤로
+0xFE5A1377,system,검수완료,서버를 찾을 수 없습니다. 다시 시도해 주세요.
+0x948CC704,system,검수완료,연결이 끊겼습니다
+0x2C1FD5F1,system,검수완료,거절
+0x310E59E0,system,검수완료,거절
+0xAD8F8237,system,검수완료,삭제
+0xD99FBC72,system,검수완료,삭제
+0xD0047D56,system,검수완료,오류
+0x1DB88BA6,system,검수완료,나가기
+0xD2C296C6,system,검수완료,도움말
+0xEB28CBB3,system,검수완료,잔액이 부족합니다
+0x6F101D64,system,검수완료,게임 불러오는 중
+0x6F101D65,system,검수완료,게임 불러오는 중.
+0x6F101D66,system,검수완료,게임 불러오는 중..
+0x6F101D67,system,검수완료,게임 불러오는 중...
+0xDA7D4FB5,system,검수완료,게임 불러오는 중...
+0x0D0E9C5C,system,검수완료,아니요
+0x10802F18,system,검수완료,점수 기록 없음
+0x77FF9B84,system,검수완료,기록 없음
+0x0291ABF5,system,검수완료,알림
+0x0D0E9C79,system,검수완료,확인
+0x213966C6,system,검수완료,확인
+0x0407698B,system,검수완료,권장
+0x384031DE,system,검수완료,초기화
+0x2DD82FD0,system,검수완료,저장
+0x7930C04C,system,검수완료,저장
+0xB242499F,system,검수완료,저장
+0xFD8CC5D9,system,검수완료,세션이 가득 찼습니다
+0x03812ABE,system,검수완료,시작
+0xC11ACCCB,system,검수완료,시작
+0x79AAB7D8,system,검수완료,EA Access 가입
+0xC889658F,system,검수완료,성공
+0xE475975D,system,검수완료,성공
+0x07CD3075,system,검수완료,사용 불가
+0xAC8DB36D,system,검수완료,사용 불가
+0x3651840D,system,검수완료,경고
+0xD674D210,system,검수완료,경고
+0xDA774BAC,system,검수완료,역주행!
+0xAEE255B0,system,검수완료,예
+0xCBAB6BCA,system,검수완료,출발에 실패했습니다

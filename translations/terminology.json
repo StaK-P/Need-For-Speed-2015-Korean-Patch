@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "game": "Need for Speed (2015)",
+  "category_rules": [
+    {
+      "source": "Outlaw",
+      "context": "five ways to play / reputation category / HUD REP percentage",
+      "korean": "무법",
+      "examples": [
+        "무법 +{0:s} REP",
+        "무법 {0:s}%",
+        "{0:s} 무법 REP"
+      ],
+      "status": "검수 확정"
+    },
+    {
+      "source": "outlaw",
+      "context": "person, human archetype, non-brand dialogue",
+      "korean": "무법자",
+      "status": "문장별 검수"
+    },
+    {
+      "source": "Urban Outlaw",
+      "context": "Magnus Walker workshop/clothing/film brand",
+      "korean": "Urban Outlaw",
+      "status": "고유명사 원문 유지"
+    },
+    {
+      "source": "52Outlaw",
+      "context": "Fifteen52 wheel model",
+      "korean": "52Outlaw",
+      "status": "제품명 원문 유지"
+    },
+    {
+      "source": "#OutlawDude",
+      "context": "social hashtag",
+      "korean": "#OutlawDude",
+      "status": "해시태그 원문 유지"
+    },
+    {
+      "source": "AllDrive",
+      "context": "NFS multiplayer game mode",
+      "korean": "AllDrive",
+      "status": "고유명사 원문 유지"
+    },
+    {
+      "source": "Touge",
+      "context": "mountain-pass / Touge racing event and mission objective",
+      "korean": "고갯길",
+      "status": "검수 확정",
+      "notes": "사용자 검수: 이니셜D 팬층을 포함한 레이싱 게임 이용자에게 고갯길 표현이 더 익숙함. 단 이벤트 고유명과 선수명은 별도 확인"
+    },
+    {
+      "source": "Kumho Tire",
+      "context": "NFS 2015 tire brand labels and tire product names",
+      "korean": "금호타이어",
+      "status": "사용자 표기 확정",
+      "notes": "금호/금호 타이어/Kumho를 같은 완성 브랜드명으로 옮길 때 금호타이어 사용. 제품명 일반/스트레치 타입과 구별."
+    },
+    {
+      "source": "Hankook Tire",
+      "context": "NFS 2015 tire brand labels and tire product names",
+      "korean": "한국타이어",
+      "status": "사용자 표기 확정",
+      "notes": "Hankook 브랜드명 한국타이어, 일반 타이어·스트레치 타이어 등 종류 이름은 별도 표기."
+    },
+    {
+      "source": "Aftermarket Equipment Manufacturer (AEM)",
+      "context": "specific game-localized aftermarket brand/label AEM",
+      "korean": "애프터마켓 (AEM)",
+      "status": "사용자 표기 확정",
+      "notes": "사용자가 확인한 NFS 2015 애프터마켓 문맥을 기준으로 약식 표기. 게임 내 AEM을 실존 Advanced Engine Management 회사와 확정적으로 동일시하거나 별개라고 단정하지 말 것."
+    }
+  ],
+  "checker_policy": "Do not write '아웃로' in ko_text of any category. Never auto-replace inside brands, hashes or internal IDs. Apply translation contextually.",
+  "references": [
+    "https://news.ea.com/press-releases/press-releases-details/2015/Five-Ways-to-Play-Drives-the-Definitive-Need-for-Speed-Experience/default.aspx/1000/",
+    "https://eaassets-a.akamaihd.net/eahelp/manuals/need-for-speed-manual_PC_uk.pdf",
+    "https://nfs.fandom.com/wiki/Need_for_Speed_%282015%29/Aftermarket_Brands",
+    "https://www.aemelectronics.com/about_us/"
+  ],
+  "outlaw_full_corpus": {
+    "edition": 2,
+    "game_build": "NFS16 366510",
+    "source_outlaw_occurrence_ids": 56,
+    "context_summary": {
+      "rep_category": 16,
+      "proper_name_or_product": 7,
+      "username_or_hashtag": 5,
+      "internal_id_or_markup": 5,
+      "person_or_narrative": 23
+    },
+    "id_context": {
+      "0x0361271E": "rep_category",
+      "0x038EC37E": "rep_category",
+      "0x04A8C8A2": "person_or_narrative",
+      "0x085ED713": "person_or_narrative",
+      "0x0A7DFE79": "rep_category",
+      "0x0CB52C91": "person_or_narrative",
+      "0x0ECA691B": "rep_category",
+      "0x0FF2092E": "proper_name_or_product",
+      "0x1234D438": "username_or_hashtag",
+      "0x1863D2B6": "proper_name_or_product",
+      "0x22B06EDE": "person_or_narrative",
+      "0x2303CBE6": "person_or_narrative",
+      "0x28F9D28C": "rep_category",
+      "0x2F45603C": "proper_name_or_product",
+      "0x2FFAD5BD": "person_or_narrative",
+      "0x47E433D9": "rep_category",
+      "0x492491BD": "proper_name_or_product",
+      "0x4A080DF0": "rep_category",
+      "0x4D107BE9": "person_or_narrative",
+      "0x50C8E734": "rep_category",
+      "0x538F453D": "rep_category",
+      "0x5806CE1D": "username_or_hashtag",
+      "0x5A0A0A31": "username_or_hashtag",
+      "0x5A0A0A32": "username_or_hashtag",
+      "0x5A0A0A33": "username_or_hashtag",
+      "0x6127D025": "rep_category",
+      "0x64370E9A": "rep_category",
+      "0x659A59F7": "person_or_narrative",
+      "0x7480A0F4": "person_or_narrative",
+      "0x799BECA6": "person_or_narrative",
+      "0x7B392F1C": "rep_category",
+      "0x84AA3737": "proper_name_or_product",
+      "0x85294B41": "person_or_narrative",
+      "0x8A4C8D26": "internal_id_or_markup",
+      "0x9BACA344": "person_or_narrative",
+      "0x9C366B05": "internal_id_or_markup",
+      "0x9EE95AC7": "proper_name_or_product",
+      "0xA13AA783": "person_or_narrative",
+      "0xA38FD024": "person_or_narrative",
+      "0xAA8F4A07": "person_or_narrative",
+      "0xB028ED3D": "person_or_narrative",
+      "0xB4745AAD": "rep_category",
+      "0xBC04123E": "person_or_narrative",
+      "0xBDB65272": "internal_id_or_markup",
+      "0xBE4D8692": "rep_category",
+      "0xBE6112D7": "proper_name_or_product",
+      "0xCBFE275B": "person_or_narrative",
+      "0xCF033650": "rep_category",
+      "0xD1747D90": "internal_id_or_markup",
+      "0xD22E04E4": "person_or_narrative",
+      "0xDDD7D009": "person_or_narrative",
+      "0xE532A8B0": "internal_id_or_markup",
+      "0xF3E2577B": "person_or_narrative",
+      "0xF619B8AC": "person_or_narrative",
+      "0xFC681AA8": "person_or_narrative",
+      "0xFDB23A2D": "rep_category"
+    },
+    "preferred": {
+      "rep_category": "무법",
+      "proper_name_or_product": "고유명사 그대로 보존 (Urban Outlaw / 52Outlaw)",
+      "username_or_hashtag": "기존 해시태그·사용자명 그대로 보존",
+      "internal_id_or_markup": "원문 코드와 마크업 그대로 보존",
+      "person_or_narrative": "무법자/무법자들 (문장 문맥에 맞게 활용)"
+    },
+    "general_rule": "Translate Outlaw as 무법 only for the five gameplay REP styles, as 무법자(들) for people, while preserving Urban Outlaw, 52Outlaw, hashtags, usernames and internal keys verbatim. Never global string-replace unknown content.",
+    "local_audit_file": "work/localization-plan/outlaw-contexts.csv"
+  }
+}

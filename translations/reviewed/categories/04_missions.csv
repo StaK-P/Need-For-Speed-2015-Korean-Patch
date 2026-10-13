@@ -1,0 +1,366 @@
+string_id,scope,status,ko_text
+0x9D020E68,04_missions,검수완료,30초 미만 랩 기록 달성
+0xC6EA30A1,04_missions,검수완료,사우스 포트 즉석 이벤트에서 'PG'에게 승리
+0xB4888F80,04_missions,검수완료,친구에게 승리
+0x28664D59,04_missions,검수완료,나카이 씨의 RWB로 에이미에게 승리
+0xB161A3E0,04_missions,검수완료,에디의 챌린지 1에서 승리
+0x71DB7A50,04_missions,검수완료,에디의 챌린지 10에서 승리
+0x7430A2F1,04_missions,검수완료,에디의 챌린지 11에서 승리
+0x7685CB92,04_missions,검수완료,에디의 챌린지 12에서 승리
+0x78DAF433,04_missions,검수완료,에디의 챌린지 13에서 승리
+0x7B301CD4,04_missions,검수완료,에디의 챌린지 14에서 승리
+0xB3B6CC81,04_missions,검수완료,에디의 챌린지 2에서 승리
+0xB60BF522,04_missions,검수완료,에디의 챌린지 3에서 승리
+0xB8611DC3,04_missions,검수완료,에디의 챌린지 4에서 승리
+0xBAB64664,04_missions,검수완료,에디의 챌린지 5에서 승리
+0xBD0B6F05,04_missions,검수완료,에디의 챌린지 6에서 승리
+0xBF6097A6,04_missions,검수완료,에디의 챌린지 7에서 승리
+0xC1B5C047,04_missions,검수완료,에디의 챌린지 8에서 승리
+0xC40AE8E8,04_missions,검수완료,에디의 챌린지 9에서 승리
+0x7D854575,04_missions,검수완료,에디의 마지막 챌린지에서 승리
+0xC9FCE498,04_missions,검수완료,250HP 미만 차량으로 매그너스에게 승리
+0x5A81D41A,04_missions,검수완료,매그너스의 Porsche '277'을 타고 매그너스에게 승리
+0xC7A7BBF7,04_missions,검수완료,매그너스의 새로운 기록 경신
+0x0E30B7CC,04_missions,검수완료,매그너스의 개인 챌린지 달성
+0x93D4487A,04_missions,검수완료,매그너스의 개인 챌린지 달성
+0xA18C3826,04_missions,검수완료,매그너스의 기록 시간 경신
+0xA323D794,04_missions,검수완료,매그너스의 기록 시간 경신
+0xFAF041F9,04_missions,검수완료,매그너스의 새로운 기록 경신
+0xA009011A,04_missions,검수완료,매그너스의 타임 트라이얼 기록 경신
+0xF89B1958,04_missions,검수완료,매그너스의 타임 트라이얼 기록 경신
+0x3B410412,04_missions,검수완료,목표 기록을 달성해 수집품 획득
+0xA0689E04,04_missions,검수완료,켄과 마누가 참가한 이벤트에서 승리
+0x98045C23,04_missions,검수완료,짐카나 목표 점수 달성
+0xCD28C156,04_missions,검수완료,짐카나 목표 점수 달성
+0xA76817E7,04_missions,검수완료,켄과 함께 짐카나에서 승리
+0xBC04123E,04_missions,검수완료,무법자의 '추격 중 바리케이드 2개 돌파' 챌린지 달성
+0xF619B8AC,04_missions,검수완료,무법자의 '추격 중 바리케이드 2개 돌파' 챌린지 달성
+0x95AF3382,04_missions,검수완료,마누가 찾아낸 코스 기록 경신
+0xC6294773,04_missions,검수완료,코스 목표 기록 달성
+0x039050FB,04_missions,검수완료,에이미와 함께 목표 점수 달성
+0xF51DC757,04_missions,검수완료,에이미와 함께 목표 점수 달성
+0x48A88F45,04_missions,검수완료,경찰이 있는 상태에서 목표 점수 달성
+0x20AFFF97,04_missions,검수완료,로빈과 함께 목표 점수 달성
+0x255A50D9,04_missions,검수완료,로빈과 함께 목표 점수 달성
+0x5BAED35B,04_missions,검수완료,타임 트라이얼에서 목표 시간 기록 경신
+0xC8D4BB38,04_missions,검수완료,에이미와 함께 목표 시간 기록 경신
+0xCB9481E3,04_missions,검수완료,"에이미, 나카이 씨와 함께 목표 달성"
+0x564DAE3A,04_missions,검수완료,Risky Devil과 함께 목표 달성
+0x87410B9B,04_missions,검수완료,Risky Devil과 함께 목표 달성
+0xBF33E2DF,04_missions,검수완료,Risky Devil과 함께 목표 달성
+0x2C59CABC,04_missions,검수완료,로빈과 함께 목표 달성
+0x4AE11A54,04_missions,검수완료,타임 트라이얼 기록 경신
+0x64428CB1,04_missions,검수완료,"에이미, 마누와 함께 트라이얼에서 승리"
+0xDFC5BC4C,04_missions,검수완료,{0:s}의 기록 경신
+0x926BEB4E,04_missions,검수완료,Autolog 추천 기록 {0:s}개 경신
+0xDFE95561,04_missions,검수완료,Autolog 추천 기록 {0:s}개 경신
+0xC67F9297,04_missions,검수완료,에이미와 함께 타임 트라이얼에서 {0:s}의 기록 경신
+0x44C8A81D,04_missions,검수완료,'무료' 부품 수집
+0x0AE6AB33,04_missions,검수완료,모두 수집
+0x8B177274,04_missions,검수완료,도넛 스폿 {0:s}개 수집
+0xEE05C147,04_missions,검수완료,도넛 스폿 {0:s}개 수집
+0x0374CCD9,04_missions,검수완료,일일 챌린지 15개 완료
+0xED5BD2EB,04_missions,검수완료,일일 챌린지 15개 완료
+0x1F2B7334,04_missions,검수완료,Play First 체험판에서 하루 동안 Need for Speed™ 일일 챌린지 3개 완료
+0x7A9A5122,04_missions,검수완료,Play First 체험판에서 하루 동안 Need for Speed™ 일일 챌린지 3개 완료
+0x5800B568,04_missions,검수완료,켄의 짐카나를 한 번의 주행으로 완료
+0xDDA44616,04_missions,검수완료,켄의 짐카나를 한 번의 주행으로 완료
+0x8394F3A7,04_missions,검수완료,승리하려면 챌린지 3개 모두 완료
+0x4E64F52F,04_missions,검수완료,에디의 챌린지 완료
+0x4FFC949D,04_missions,검수완료,에디의 챌린지 완료
+0x45807C93,04_missions,검수완료,메인 스토리 완료 후 잠금 해제
+0x43EAD535,04_missions,검수완료,City Race 이벤트 완료
+0x9E515502,04_missions,검수완료,Risky Devil 크루와 함께 드리프트 트레인 미션 완료
+0xB46A4EF0,04_missions,검수완료,Risky Devil 크루와 함께 드리프트 트레인 미션 완료
+0x31DF19B6,04_missions,검수완료,인트로 완료 후 '새 게임 찾기' 이용 가능
+0xE3125BFB,04_missions,검수완료,인트로 완료 후 다른 플레이어의 세션 참가 가능
+0x7A889B3E,04_missions,검수완료,인트로 완료 후 혼자 플레이 가능
+0x073D35FB,04_missions,검수완료,인트로 완료 후 일일 챌린지 이용 가능
+0x43BEE4C3,04_missions,검수완료,인트로 완료 후 스피드리스트 이용 가능
+0xAC12DA55,04_missions,검수완료,인트로 완료 후 크루 플레이 가능
+0xC0519133,04_missions,검수완료,Park Drift 이벤트 완료
+0xA858E279,04_missions,검수완료,일일 챌린지 3개를 완료해 {0:s} 및 특별 보상 획득
+0xE7C5F099,04_missions,검수완료,Autolog 추천 항목 {0:s}개 완료
+0xE084040C,04_missions,검수완료,Autolog 추천 항목 {0:s}개 완료
+0x9020B686,04_missions,검수완료,이벤트 {0:s}개 완료
+0xC0F1BA7A,04_missions,검수완료,이벤트 {0:s}개 완료
+0x8904B69E,04_missions,검수완료,크루와 함께 이벤트 {0:s}개 완료
+0x94378799,04_missions,검수완료,이벤트 {0:s}개 완료
+0xDF290A0D,04_missions,검수완료,이벤트 {0:s}개 완료
+0xA99B8AB1,04_missions,검수완료,크루와 함께 이벤트 {0:s}개 완료
+0xF207B24F,04_missions,검수완료,일일 챌린지 15개 완료
+0xE06D0A98,04_missions,검수완료,Play First 체험판에서 하루 동안 Need for Speed™ 일일 챌린지 3개 완료
+0xA21FD5F1,04_missions,검수완료,일일 챌린지 완료
+0x75D8072C,04_missions,검수완료,도넛 {0:s}회 수행
+0x30D8ECFF,04_missions,검수완료,도넛 {0:s}회 수행
+0x00374D8D,04_missions,검수완료,한 번에 {0:s} 드리프트 달성
+0x0F858DFA,04_missions,검수완료,한 번에 {0:s} 드리프트 달성
+0x861946F3,04_missions,검수완료,표시된 구역에서 드리프트
+0x5B4B4644,04_missions,검수완료,{0:s} 드리프트 달성
+0xC4B40F17,04_missions,검수완료,{0:s} 드리프트 달성
+0xC8CC3CDD,04_missions,검수완료,{1:s}에서 {0:s} 드리프트 달성
+0xF691D34A,04_missions,검수완료,{1:s}에서 {0:s} 드리프트 달성
+0x3F95CBF8,04_missions,검수완료,순정 차량으로 한 번에 {0:s} 드리프트 달성
+0x6E886B05,04_missions,검수완료,순정 차량으로 한 번에 {0:s} 드리프트 달성
+0x428B693B,04_missions,검수완료,350HP 이상 차량으로 이벤트 참가
+0x84A927EB,04_missions,검수완료,완전 조절식 서스펜션을 장착한 차량으로 이벤트 참가
+0xC207AFDF,04_missions,검수완료,250HP 미만 차량으로 이벤트 참가
+0xCAE7D72A,04_missions,검수완료,250HP 미만 차량으로 이벤트 참가
+0x91D1835D,04_missions,검수완료,매그너스 워커의 차량으로 이벤트 참가. 차고에서 구매할 수 있습니다.
+0xD20D7033,04_missions,검수완료,나카이 씨의 차량으로 이벤트 참가. 차고에서 구매할 수 있습니다.
+0xDE95A030,04_missions,검수완료,클럽으로 이동
+0x80BE6B53,04_missions,검수완료,이벤트에서 ${0:s} 획득
+0x540989AF,04_missions,검수완료,"드리프트 트라이얼에서 REP 20,000 획득"
+0xF236283D,04_missions,검수완료,"드리프트 트라이얼에서 REP 20,000 획득"
+0x27B54CB5,04_missions,검수완료,Need for Speed™ 트로피 모두 획득
+0xC3249884,04_missions,검수완료,Need for Speed™ 트로피 모두 획득
+0x016DE86F,04_missions,검수완료,{1:s}을(를) {0:s}회 수행해 REP 획득
+0x3222CF4E,04_missions,검수완료,{1:s}을(를) {0:s}회 수행해 REP 획득
+0x2F2AF6A2,04_missions,검수완료,{1:s}을(를) {0:s}회 수행해 REP 획득
+0x767CB961,04_missions,검수완료,{1:s}을(를) {0:s}회 수행해 REP 획득
+0xA994A604,04_missions,검수완료,가장 높은 드리프트 점수 획득
+0x05C86BD1,04_missions,검수완료,최고 드리프트 점수를 기록하고 브론즈 목표 달성
+0x91193246,04_missions,검수완료,최고 드리프트 점수를 기록하고 브론즈 목표 달성
+0xBA5BA400,04_missions,검수완료,{1:s} 이벤트에서 REP {0:s} 획득
+0x05D02453,04_missions,검수완료,{1:s} 이벤트에서 REP {0:s} 획득
+0x256333C2,04_missions,검수완료,{1:s} REP {0:s} 획득
+0xD1C9AC55,04_missions,검수완료,{1:s} REP {0:s} 획득
+0x07753041,04_missions,검수완료,차량의 모든 부품 카테고리에 최상급 성능 부품 장착
+0x2E3CF893,04_missions,검수완료,차량의 모든 부품 카테고리에 최상급 성능 부품 장착
+0xA5E4F8C5,04_missions,검수완료,벌금 $5000이 누적된 추격전에서 도주 성공
+0x76F287DB,04_missions,검수완료,벌금 ${0:s}이 누적된 추격전에서 도주 성공
+0x7B9CD91D,04_missions,검수완료,벌금 ${0:s}이 누적된 추격전에서 도주 성공
+0x70474A22,04_missions,검수완료,벌금 $2000 상태로 5분간 경찰 추격전을 벌인 뒤 도주 성공
+0xDB82A768,04_missions,검수완료,200HP 미만 차량으로 5분간 추격전을 벌인 뒤 도주 성공
+0xCCDC71FC,04_missions,검수완료,추격전에서 체포 직전 상황을 {0:s}회 넘긴 뒤 도주 성공
+0x686AB1CF,04_missions,검수완료,추격전에서 체포 직전 상황을 {0:s}회 넘긴 뒤 도주 성공
+0x1A28640D,04_missions,검수완료,{0:s}보다 오래 지속된 추격전에서 도주 성공
+0x5F34E600,04_missions,검수완료,{0:s}보다 오래 지속된 추격전에서 도주 성공
+0x0AE2E789,04_missions,검수완료,벌금 ${0:s} 이상이 누적된 추격전에서 도주 성공
+0x4DE7D876,04_missions,검수완료,벌금 ${0:s} 이상이 누적된 추격전에서 도주 성공
+0x7947B07C,04_missions,검수완료,{0:s}분간 지속된 추격전에서 도주 성공
+0x7DF201BE,04_missions,검수완료,충돌 없이 {0:s}분간 지속된 추격전에서 도주 성공
+0xD89B278B,04_missions,검수완료,{0:s} 안에 추격전에서 도주 성공
+0xEC00193E,04_missions,검수완료,{0:s} 안에 추격전에서 도주 성공
+0x9409A278,04_missions,검수완료,추격전 {0:s}회에서 도주 성공
+0x153DF1CB,04_missions,검수완료,추격전 {0:s}회에서 도주 성공
+0x79EC14F2,04_missions,검수완료,경찰 {0:s}대 따돌리기
+0xB76EB385,04_missions,검수완료,경찰 {0:s}대 따돌리기
+0x0B3161D7,04_missions,검수완료,크루 찾기
+0xBE2C4969,04_missions,검수완료,크루 찾기
+0x13E2C6D5,04_missions,검수완료,챌린지 40개 모두 완료 후 잠금 해제
+0xEFE0FF9C,04_missions,검수완료,드리프트 콘테스트 아무거나 완료
+0xEF858785,04_missions,검수완료,타임 트라이얼 아무거나 2분 이내 완료
+0xDB49AC0B,04_missions,검수완료,CoreX City Race 이벤트 완료
+0xEB36AE5A,04_missions,검수완료,CoreX City Race 이벤트 완료
+0xFF1DAF52,04_missions,검수완료,에이미와 함께 참가한 콘테스트에서 2위 이내로 완주
+0x07B9DE78,04_missions,검수완료,350HP 이상 차량으로 2위 이내로 완주
+0x864EF49D,04_missions,검수완료,로빈과 다른 레이서들을 상대로 3위 이내 완주
+0x3A4EA933,04_missions,검수완료,마누와 함께 고갯길 레이스에서 3위 이내 완주
+0x22E9BA54,04_missions,검수완료,로빈과 함께 고갯길 레이스에서 3위 이내 완주
+0x4D3642F5,04_missions,검수완료,스파이크와 함께 참가한 경기에서 3위 이내 완주
+0xA904DBB8,04_missions,검수완료,{1:s} 안에 이벤트 {0:s}개 완료
+0xC9A0530B,04_missions,검수완료,{1:s} 안에 이벤트 {0:s}개 완료
+0x22E7AA11,04_missions,검수완료,{1:s}을(를) 통해 벌금 ${0:s} 누적
+0x2F9A69FE,04_missions,검수완료,{1:s}을(를) 통해 벌금 ${0:s} 누적
+0xE32A8610,04_missions,검수완료,{1:s}을(를) 통해 벌금 ${0:s} 누적
+0x1D4E9DB2,04_missions,검수완료,"켄의 차량으로 Mental Block에서 드리프트 점수 350,000 달성"
+0x2FB6C2A0,04_missions,검수완료,"켄의 차량으로 Mental Block에서 드리프트 점수 350,000 달성"
+0x401673C4,04_missions,검수완료,실력을 인정받아 다른 레이서에게 50회 도전받기
+0x9D6987D6,04_missions,검수완료,실력을 인정받아 다른 레이서에게 50회 도전받기
+0x87C7F5FB,04_missions,검수완료,이벤트에서 REP {0:s} 획득
+0x06E2421D,04_missions,검수완료,{1:s}을(를) 통해 벌금 {0:s} 누적
+0x2FD7AAD6,04_missions,검수완료,체공 시간 {0:s}초 달성
+0x4EECB87E,04_missions,검수완료,클럽으로 이동
+0xA66FE8A3,04_missions,검수완료,시속 120마일 달성
+0xAC53C719,04_missions,검수완료,시속 120마일 달성 완료
+0xD6D85626,04_missions,검수완료,스파이크 스트립에 걸린 뒤 도주 성공
+0x6059249D,04_missions,검수완료,{0:s} 충돌
+0x725621E5,04_missions,검수완료,추격 중 경찰차 {0:s}대 충돌
+0x592735B8,04_missions,검수완료,속도 {1:s} 이상으로 경찰차 또는 일반 차량 {0:s}대 충돌
+0x7E0DED0B,04_missions,검수완료,속도 {1:s} 이상으로 경찰차 또는 일반 차량 {0:s}대 충돌
+0xBD1A5ED8,04_missions,검수완료,추격 중 경찰차 {0:s}대 충돌
+0xB40EAC81,04_missions,검수완료,타임 어택에서 30초 미만 랩 기록 달성
+0x9CB77A3A,04_missions,검수완료,스냅샷 {0:s}개에 좋아요 누르기
+0x33A6C1CD,04_missions,검수완료,스냅샷 {0:s}개에 좋아요 누르기
+0x3A45222B,04_missions,검수완료,차고에서 에이미 만나기
+0xD36DBDC1,04_missions,검수완료,차고에서 에이미 만나기
+0xE7EA42B4,04_missions,검수완료,차고에서 에이미 만나기
+0x5569A80D,04_missions,검수완료,미니맵에 표시된 경로를 따라 차고에서 에이미 만나기
+0xE7E374A1,04_missions,검수완료,미니맵에 표시된 경로를 따라 차고에서 에이미 만나기
+0xA9EF8653,04_missions,검수완료,클럽에서 모두 만나기!
+0x5C9FA4E8,04_missions,검수완료,The Bunker에서 마누 만나기
+0xA32E806A,04_missions,검수완료,The Bunker에서 마누 만나기
+0xB9583727,04_missions,검수완료,The Bunker에서 마누 만나기
+0xFFE712A9,04_missions,검수완료,The Bunker에서 마누 만나기
+0xD46FAAE2,04_missions,검수완료,로빈의 아지트에서 로빈 만나기
+0x9A5F936E,04_missions,검수완료,클럽에서 스파이크 만나기
+0xF5C9B67F,04_missions,검수완료,클럽에서 스파이크 만나기
+0x863317A0,04_missions,검수완료,미니맵의 경로를 따라 클럽에서 스파이크 만나기
+0x05C1F47D,04_missions,검수완료,The Longhorn에서 스파이크 만나기
+0x549B072E,04_missions,검수완료,The Longhorn에서 스파이크 만나기
+0x781571C3,04_missions,검수완료,The Longhorn에서 스파이크 만나기
+0x7C2002E4,04_missions,검수완료,The Longhorn에서 스파이크 만나기
+0x84352526,04_missions,검수완료,The Longhorn에서 스파이크 만나기
+0xADDC492B,04_missions,검수완료,로빈의 아지트에서 일행 만나기
+0x4675EE2B,04_missions,검수완료,The Bunker에서 일행 만나기
+0x0095792E,04_missions,검수완료,다이너에서 일행 만나기
+0xFC8AE80D,04_missions,검수완료,다이너에서 일행 만나기
+0xFE82ACCB,04_missions,검수완료,다이너에서 일행 만나기
+0x199AC74A,04_missions,검수완료,차고에서 일행 만나기
+0x802A9405,04_missions,검수완료,The Longhorn에서 일행 만나기
+0x883FB647,04_missions,검수완료,The Longhorn에서 일행 만나기
+0xB02F5707,04_missions,검수완료,전설적인 빌더 나카이 씨 만나기
+0xC28730D9,04_missions,검수완료,전설적인 빌더 나카이 씨 만나기
+0x0CB52C91,04_missions,검수완료,다이너에서 무법자들 만나기
+0x08AA9B70,04_missions,검수완료,다이너에서 트래비스 만나기
+0x925A3863,04_missions,검수완료,추격전 시작 후 {0:s}초 안에 경찰 따돌리기
+0xDDA14516,04_missions,검수완료,추격전 시작 후 {0:s}초 안에 경찰 따돌리기
+0x959EB138,04_missions,검수완료,다른 레이서들을 따돌리고 승리
+0x81DECF43,04_missions,검수완료,경찰차 {0:s}대 따돌리기
+0xBDB8B7F6,04_missions,검수완료,경찰차 {0:s}대 따돌리기
+0xC362D8C3,04_missions,검수완료,{0:s}(으)로 플레이
+0xDCF3B437,04_missions,검수완료,에디의 챌린지 플레이 후 잠금 해제
+0xAD71582D,04_missions,검수완료,새로운 드래그 레이스 5개 플레이
+0xA0151A1F,04_missions,검수완료,차고에 차량 한 대 추가 구매
+0xAD7708B1,04_missions,검수완료,차고에 차량 한 대 추가 구매
+0xE4BD4688,04_missions,검수완료,차량 성능을 높이고 핸들링 튜닝 옵션을 늘리기 위한 부품 구매
+0xD2848948,04_missions,검수완료,일일 챌린지를 완료해 월간 랭크 10 달성
+0xDFE677DA,04_missions,검수완료,일일 챌린지를 완료해 월간 랭크 10 달성
+0x8E6AC8F5,04_missions,검수완료,REP 레벨 10 달성
+0xA0D2EDE3,04_missions,검수완료,REP 레벨 10 달성
+0x8E6AC91B,04_missions,검수완료,REP 레벨 25 달성
+0xA0D2EE09,04_missions,검수완료,REP 레벨 25 달성
+0x8E6AC979,04_missions,검수완료,REP 레벨 50 달성
+0xA0D2EE67,04_missions,검수완료,REP 레벨 50 달성
+0x8E6AC9BB,04_missions,검수완료,REP 레벨 70 달성
+0xA0D2EEA9,04_missions,검수완료,REP 레벨 70 달성
+0xCDC53F93,04_missions,검수완료,목표 시간 안에 결승선에 도착해 다음 단계로 진행
+0x7AFB2D76,04_missions,검수완료,{0:s} 안에 결승선 도착
+0xEA8750F8,04_missions,검수완료,{0:s} 안에 결승선에 도착해 다음 단계로 진행
+0x66F29FD3,04_missions,검수완료,크루와 함께 정상에 오르기
+0x6EA83625,04_missions,검수완료,크루와 함께 정상에 오르기
+0xC244AC5D,04_missions,검수완료,코스에서 목표 드리프트 점수를 넘어 다음 단계로 진행
+0xE044D939,04_missions,검수완료,목표 드리프트 점수를 넘고 제한 시간 안에 완주해 다음 단계로 진행
+0xB7C283C0,04_missions,검수완료,코스에서 드리프트 점수 {0:s} 초과 달성
+0x18D31782,04_missions,검수완료,코스에서 드리프트 점수 {0:s}을 넘겨 다음 단계로 진행
+0xEBF07ABB,04_missions,검수완료,드리프트 점수 {0:s}을 넘기고 {1:s} 안에 완주
+0x3CE535FD,04_missions,검수완료,드리프트 점수 {0:s}을 넘기고 {1:s} 안에 완주해 다음 단계로 진행
+0x954BB8A6,04_missions,검수완료,최고 랩 타임 기록
+0x1C4924D0,04_missions,검수완료,Need for Speed™ 커뮤니티에 랩핑 공유
+0x77B802BE,04_missions,검수완료,Need for Speed™ 커뮤니티에 랩핑 공유
+0xCA6282DD,04_missions,검수완료,{1:s}와 함께 추격전 {0:s}회 시작
+0x16B2DED0,04_missions,검수완료,{1:s}와 함께 추격전 {0:s}회 시작
+0x8701D680,04_missions,검수완료,그룹을 따라가며 목표 드리프트 점수를 넘겨 다음 단계로 진행
+0x932C3F95,04_missions,검수완료,그룹과 함께 주행하며 드리프트 점수 {0:s} 획득
+0x2340A7C4,04_missions,검수완료,그룹과 함께 주행하며 드리프트 점수 {0:s}을 획득해 다음 단계로 진행
+0x3982E6F3,04_missions,검수완료,그룹을 따라가며 점수 획득
+0x9CC50B4B,04_missions,검수완료,스냅샷 프로 모드에서 필터를 적용해 스냅샷 촬영
+0xAF2D3039,04_missions,검수완료,스냅샷 프로 모드에서 필터를 적용해 스냅샷 촬영
+0x87ECD0A4,04_missions,검수완료,첫 스냅샷 촬영
+0x8FA266F6,04_missions,검수완료,첫 스냅샷 촬영
+0xAB0B29D1,04_missions,검수완료,서로 다른 스냅샷 {0:s}장 촬영
+0x0C706444,04_missions,검수완료,서로 다른 스냅샷 {0:s}장 촬영
+0x3C0B3E35,04_missions,검수완료,차량을 {0:s}에서 {1:s}까지 튜닝
+0xE2CA09A2,04_missions,검수완료,차량을 {0:s}에서 {1:s}까지 튜닝
+0x87F7DF7A,04_missions,검수완료,완전 조절식 서스펜션으로 업그레이드
+0x4DE91266,04_missions,검수완료,차량의 마력 높이기
+0x503E3B07,04_missions,검수완료,차량 출력을 최소 350HP로 높이기
+0x529363A8,04_missions,검수완료,차량 출력을 최소 450HP로 높이기
+0xFFA9BF49,04_missions,검수완료,차량 출력을 최소 700HP로 높이기
+0x01FEE7EA,04_missions,검수완료,차량 출력을 최소 750HP로 높이기
+0x0454108B,04_missions,검수완료,차량 출력을 최소 800HP로 높이기
+0xFF02F2A0,04_missions,검수완료,{1:s} 이벤트에서 우승
+0xDF6146F3,04_missions,검수완료,{1:s} 이벤트에서 {0:s}회 연속 우승
+0x003FAB0C,04_missions,검수완료,스피드리스트의 모든 이벤트에서 우승
+0xB9DF6BDE,04_missions,검수완료,스피드리스트의 모든 이벤트에서 우승
+0x9225EE16,04_missions,검수완료,프레스티지 이벤트 모두 우승
+0xF192B0C4,04_missions,검수완료,프레스티지 이벤트 모두 우승
+0xDC4FBA37,04_missions,검수완료,{1:s}HP 미만 차량으로 이벤트에서 우승
+0xA8128C52,04_missions,검수완료,에디의 차량으로 이벤트에서 우승
+0xBA6A6624,04_missions,검수완료,에디의 차량으로 이벤트에서 우승
+0x22AF6866,04_missions,검수완료,충돌 없이 이벤트에서 우승
+0x88BA465B,04_missions,검수완료,아무것에도 충돌하지 않고 이벤트에서 우승
+0x40438A51,04_missions,검수완료,튜닝한 차량으로 아무 이벤트에서나 우승
+0x40438A53,04_missions,검수완료,튜닝한 차량으로 아무 이벤트에서나 우승
+0x41DB29BF,04_missions,검수완료,튜닝한 차량으로 아무 이벤트에서나 우승
+0x41DB29C1,04_missions,검수완료,튜닝한 차량으로 아무 이벤트에서나 우승
+0x042CF272,04_missions,검수완료,켄과 모로호시의 차량으로 이벤트에서 우승
+0xCD778E20,04_missions,검수완료,켄과 모로호시의 차량으로 이벤트에서 우승
+0xDF3778B5,04_missions,검수완료,드래그 레이스 5개에서 우승
+0xF19F9DA3,04_missions,검수완료,드래그 레이스 5개에서 우승
+0x680C992C,04_missions,검수완료,모든 프레스티지 이벤트에서 골드 획득
+0xAE6CD85A,04_missions,검수완료,모든 프레스티지 이벤트에서 골드 획득
+0xCEA735DA,04_missions,검수완료,서킷 레이스에서 우승
+0x84EBE2FA,04_missions,검수완료,피시와 함께 드리프트 콘테스트에서 우승
+0xC87E7014,04_missions,검수완료,마누가 찾아낸 드리프트 이벤트에서 우승
+0x6697B552,04_missions,검수완료,마누와 함께 드리프트 이벤트에서 우승
+0x914C81FE,04_missions,검수완료,에이미와 함께 이벤트에서 우승
+0xB38A17BA,04_missions,검수완료,Risky Devil과 함께 이벤트에서 우승
+0x96B45E96,04_missions,검수완료,스파이크와 함께 이벤트에서 우승
+0x88A41D3E,04_missions,검수완료,모든 아이콘을 상대로 한 레이스에서 우승!
+0xE5EAE608,04_missions,검수완료,레이스에서 우승하고 브론즈 목표 점수를 넘어 다음 단계로 진행
+0x2E38C7FB,04_missions,검수완료,매그너스를 상대로 스프린트 레이스에서 우승
+0x308DF09C,04_missions,검수완료,매그너스를 상대로 스프린트 레이스에서 우승
+0x51A35CF8,04_missions,검수완료,현지 레이서들을 상대로 스프린트 레이스에서 우승
+0x0172D7F3,04_missions,검수완료,에이미와 함께 스프린트 레이스에서 우승
+0x5959AABA,04_missions,검수완료,에이미와 함께 스프린트 레이스에서 우승
+0xD22E04E4,04_missions,검수완료,무법자들과 함께 스프린트 레이스에서 우승
+0xDDD7D009,04_missions,검수완료,무법자들과 함께 스프린트 레이스에서 우승
+0x8883368E,04_missions,검수완료,{0:s} 이벤트에서 우승
+0x9787DADB,04_missions,검수완료,{0:s} 이벤트에서 우승
+0x82873D21,04_missions,검수완료,{1:s}로 {0:s} 이벤트에서 우승
+0xD36EE194,04_missions,검수완료,{1:s}로 {0:s} 이벤트에서 우승
+0x35A05537,04_missions,검수완료,이벤트 3개 연속 우승
+0x47F82F09,04_missions,검수완료,이벤트 3개 연속 우승
+0x8A4D081B,04_missions,검수완료,완전 조절식 서스펜션을 장착하고 우승
+0x9BB374AE,04_missions,검수완료,REP 최고 점수로 이벤트 {0:s}개에서 우승
+0xC16FF48E,04_missions,검수완료,니트로를 사용하지 않고 이벤트 {0:s}개에서 우승
+0x789C7579,04_missions,검수완료,충돌 없이 이벤트 {0:s}개 연속 우승
+0x6647016A,04_missions,검수완료,{1:s}HP 미만 차량으로 이벤트 {0:s}개에서 우승
+0x12220AC1,04_missions,검수완료,REP 최고 점수로 이벤트 {0:s}개에서 우승
+0xA003120E,04_missions,검수완료,아무것에도 충돌하지 않고 이벤트 {0:s}개에서 우승
+0xEF6E86A1,04_missions,검수완료,니트로를 사용하지 않고 이벤트 {0:s}개에서 우승
+0xCC12CBDF,04_missions,검수완료,다른 실제 플레이어를 상대로 즉석 이벤트 {0:s}개에서 우승
+0xA59701EC,04_missions,검수완료,구매한 커스텀 부품을 최소 {1:s}개 장착하고 즉석 이벤트 {0:s}개에서 우승
+0x4E6C4812,04_missions,검수완료,다른 실제 플레이어를 상대로 즉석 이벤트 {0:s}개에서 우승
+0x58773FBF,04_missions,검수완료,구매한 커스텀 부품을 최소 {1:s}개 장착하고 즉석 이벤트 {0:s}개에서 우승
+0x775899AB,04_missions,검수완료,표시된 모든 장소에서 도넛을 수행해 도시를 타이어 연기로 가득 채우기
+0x18E3BA55,04_missions,검수완료,배기 시스템을 개조한 차량으로 도넛 수행
+0x1E3F6912,04_missions,검수완료,로빈과 함께 서킷 레이스 참가
+0x23052838,04_missions,검수완료,로빈과 함께 서킷 레이스 참가
+0x418C77D0,04_missions,검수완료,스파이크와 함께 서킷 레이스 참가
+0xAA8F4A07,04_missions,검수완료,무법자들과 함께 서킷 레이스 참가
+0xCB29E3D9,04_missions,검수완료,에이미와 함께 드래그 레이스 참가
+0x334F2F50,04_missions,검수완료,마누와 함께 드리프트 콘테스트 참가
+0x209491B3,04_missions,검수완료,로빈과 함께 드리프트 콘테스트 참가
+0x37F98092,04_missions,검수완료,마누와 함께 드리프트 콘테스트들에 참가
+0xD4832D85,04_missions,검수완료,트래비스와 함께 드리프트 트레인 참가
+0x729C72C3,04_missions,검수완료,경찰서에서 드리프트 트라이얼 참가
+0x35A457F1,04_missions,검수완료,사우스 포트에서 드리프트 트라이얼 참가
+0x199517D0,04_missions,검수완료,로빈과 함께 드리프트 트라이얼 참가
+0xBB40657C,04_missions,검수완료,외관 커스터마이징을 모두 적용한 차량으로 이벤트 참가
+0xCFD4351B,04_missions,검수완료,에이미와 함께 이벤트 참가
+0xF772EFF8,04_missions,검수완료,에이미와 함께 이벤트 참가
+0xF9C81899,04_missions,검수완료,에이미와 함께 이벤트 참가
+0xA512EF46,04_missions,검수완료,"켄, 마누와 함께 이벤트 참가"
+0x5AF7FF7C,04_missions,검수완료,로빈과 함께 짐카나 참가
+0x58A2D6DB,04_missions,검수완료,로빈과 함께 레이스 참가
+0x6D972F35,04_missions,검수완료,"로빈, 마누와 함께 레이스 참가"
+0x984BFBE1,04_missions,검수완료,스프린트 레이스 참가
+0x298E76B9,04_missions,검수완료,매그너스를 상대로 스프린트 레이스 참가
+0x261124B8,04_missions,검수완료,에이미와 함께 스프린트 레이스 참가
+0xF81E356F,04_missions,검수완료,에이미와 함께 스프린트 레이스 참가
+0xFA735E10,04_missions,검수완료,에이미와 함께 스프린트 레이스 참가
+0x488BF1B3,04_missions,검수완료,브린과 함께 스프린트 레이스 참가
+0x43E1A071,04_missions,검수완료,스파이크와 함께 스프린트 레이스 참가
+0x9B5EAFD8,04_missions,검수완료,스파이크와 함께 스프린트 레이스 참가
+0x799BECA6,04_missions,검수완료,무법자와 스프린트 레이스 참가
+0xA38FD024,04_missions,검수완료,무법자와 스프린트 레이스 참가
+0x62AE4D3E,04_missions,검수완료,타임 어택 참가
+0xB8EB3CDB,04_missions,검수완료,에이미와 함께 타임 어택 참가
+0x41A91562,04_missions,검수완료,경찰의 추격을 받으며 타임 트라이얼 참가
+0x1BEA4071,04_missions,검수완료,로빈과 함께 타임 트라이얼 참가
+0x2A04A21B,04_missions,검수완료,로빈과 함께 타임 트라이얼 참가
+0xFCC886B1,04_missions,검수완료,에이미와 함께 레이스 이벤트 2개 참가
+0x8296BA59,04_missions,검수완료,"로빈, Risky Devil과 함께 주행"

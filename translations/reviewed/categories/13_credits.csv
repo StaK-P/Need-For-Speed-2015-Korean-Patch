@@ -1,0 +1,383 @@
+string_id,scope,status,ko_text
+0x65633706,13_credits,검수완료,3D 아티스트
+0x11CA1819,13_credits,검수완료,3D 아티스트
+0xE2F3738D,13_credits,검수완료,VFX 리드 아티스트 직무대행
+0x73503786,13_credits,검수완료,데이터 분석
+0x99F35099,13_credits,원문유지,
+0x0DE89541,13_credits,검수완료,아키텍처
+0x488EF837,13_credits,검수완료,아트 브리프 전문가
+0xF8D01B3B,13_credits,검수완료,아트 디렉터
+0x12D382EE,13_credits,검수완료,아트 디렉터
+0x6A525021,13_credits,검수완료,아트 슈퍼바이저
+0xB49C5494,13_credits,검수완료,아트 슈퍼바이저
+0xA89AA310,13_credits,검수완료,아티스트
+0xBBEF0563,13_credits,검수완료,아티스트
+0x5CB91D5B,13_credits,원문유지,
+0x27A4F8A6,13_credits,검수완료,애셋 현지화
+0x99425DD1,13_credits,검수완료,애셋 현지화 전문가
+0xC18E1844,13_credits,검수완료,애셋 현지화 전문가
+0xC943EA67,13_credits,검수완료,보조 오디오 캡처 전문가
+0xF1C137A6,13_credits,검수완료,보조 오디오 캡처 전문가
+0x44C84D83,13_credits,검수완료,보조 디자이너
+0xDDD1FE36,13_credits,검수완료,보조 디자이너
+0x36EBBF56,13_credits,검수완료,어시스턴트 프로듀서
+0x1463AA69,13_credits,검수완료,어시스턴트 프로듀서
+0x1F825CF9,13_credits,검수완료,부아트 디렉터
+0xDEE99C05,13_credits,검수완료,초급 디자이너
+0x9BA801F1,13_credits,검수완료,개발 부매니저
+0xD10D0DD8,13_credits,검수완료,부프로듀서
+0xF2AEC92B,13_credits,검수완료,부프로듀서
+0xC6F6636F,13_credits,검수완료,제품 부매니저
+0xA18649EB,13_credits,검수완료,초급 소프트웨어 엔지니어
+0xD24F879E,13_credits,검수완료,초급 소프트웨어 엔지니어
+0xA582CBDA,13_credits,검수완료,부기술감독
+0xE32D8121,13_credits,검수완료,오디오 아티스트
+0x48DDA594,13_credits,검수완료,오디오 아티스트
+0xDC02CD4E,13_credits,검수완료,오디오 캡처 전문가
+0x6F903A66,13_credits,검수완료,오디오 디렉터
+0x61978779,13_credits,검수완료,오디오 디렉터
+0x2135BF9A,13_credits,검수완료,오디오 엔지니어링
+0x8E458157,13_credits,원문유지,
+0x804E2C22,13_credits,검수완료,AUDIOWORKS 아티스트팀
+0x4107A6F4,13_credits,검수완료,AUDIOWORKS 중앙팀
+0xF2326654,13_credits,검수완료,브랜드 고객 소통 매니저
+0xDBC117D6,13_credits,검수완료,사업·계약 관리
+0x7923E84D,13_credits,검수완료,사업 운영
+0x23F16FF4,13_credits,검수완료,캠페인 마케팅 매니저
+0xED3B46E9,13_credits,검수완료,출연진
+0x4627DC7D,13_credits,검수완료,중앙 지원 매니저
+0x5CF637D8,13_credits,검수완료,중앙 지원 매니저
+0x3541CAE2,13_credits,검수완료,인증
+0x8A99B6A4,13_credits,검수완료,CG 슈퍼바이저
+0xF5FBC37B,13_credits,검수완료,시네마틱 리드
+0x662EA27E,13_credits,검수완료,시네마틱
+0x065D1E7A,13_credits,검수완료,시네마틱 아트 디렉터
+0x7EB1E30F,13_credits,검수완료,시네마틱 아티스트
+0x54EE4542,13_credits,검수완료,시네마틱 아티스트
+0xEB9C50FC,13_credits,검수완료,커뮤니케이션 매니저
+0x81C95559,13_credits,검수완료,출시 인증·심사
+0x0B319E6E,13_credits,검수완료,출시 인증 매니저
+0x64FC9F9F,13_credits,검수완료,출시 인증 프로젝트 리드
+0xAF93DA24,13_credits,검수완료,출시 인증 프로젝트 매니저
+0x9E52F9AC,13_credits,검수완료,출시 인증 품질 설계 담당
+0x1262C73B,13_credits,검수완료,컨셉 아티스트
+0x41F10244,13_credits,검수완료,콘텐츠·커뮤니티 매니저
+0x474120F2,13_credits,검수완료,콘텐츠·커뮤니티 매니저
+0x9E4C8124,13_credits,검수완료,대화 콘텐츠 전문가
+0x6ECCCFB8,13_credits,검수완료,코어 QA
+0x5EC2C387,13_credits,검수완료,크리에이티브 디렉터
+0xE15EF5BE,13_credits,원문유지,
+0x335E4E56,13_credits,검수완료,데이터베이스 서비스
+0xAC0E0171,13_credits,검수완료,데이터베이스 서비스
+0xF3492D8B,13_credits,원문유지,
+0xB8C8C47D,13_credits,검수완료,수요 계획
+0x2BC60A78,13_credits,검수완료,디자인
+0x1384426A,13_credits,검수완료,디자이너
+0x840C8FFD,13_credits,검수완료,디자이너
+0x0EF24E59,13_credits,검수완료,개발 및 릴리스 엔지니어링
+0x100722D7,13_credits,검수완료,개발 디렉터
+0x6F0D5C01,13_credits,검수완료,개발 디렉터
+0x322FFA71,13_credits,검수완료,개발·릴리스 엔지니어링 부문 개발 디렉터
+0x50B8DC74,13_credits,검수완료,개발 디렉터
+0x9A92BF36,13_credits,검수완료,개발 매니저
+0xECEAA649,13_credits,검수완료,개발 매니저
+0xB11B71F2,13_credits,검수완료,개발 QA
+0xF1D48C8A,13_credits,검수완료,개발 릴리스 엔지니어링
+0x1880BEC1,13_credits,검수완료,개발팀
+0x7366A727,13_credits,검수완료,디지털 디자이너
+0x44CD9415,13_credits,검수완료,디렉터
+0x6F486F49,13_credits,검수완료,네트워크 엔지니어링 디렉터
+0xDE801708,13_credits,검수완료,디렉터
+0x23B7D49B,13_credits,원문유지,
+0xEE4889F8,13_credits,원문유지,
+0x971526F9,13_credits,검수완료,EA 스튜디오 콘텐츠팀
+0xB93316F4,13_credits,원문유지,
+0xC356A9BE,13_credits,검수완료,EADP 개발자 지원·협력
+0xF24CE89B,13_credits,검수완료,EADP 게임플레이 서비스
+0x127B4AF8,13_credits,검수완료,EADP 플레이어 안정성 엔지니어링
+0xB45404EC,13_credits,검수완료,EADP 시스템 테스트
+0xCFE3DE7D,13_credits,검수완료,EADP 기술 운영
+0x7CA20F53,13_credits,검수완료,EKEYA
+0x9F96F3D8,13_credits,원문유지,
+0xB6D5FFDA,13_credits,원문유지,
+0x06AFF1F7,13_credits,검수완료,엔지니어링 프로그램 매니저
+0x129FCA68,13_credits,검수완료,엔터프라이즈 시스템 모니터링
+0xE5B50384,13_credits,검수완료,환경 아티스트
+0x9257F215,13_credits,검수완료,ESCAPE ARTIST
+0xFE352664,13_credits,검수완료,경영진 비서 및 시설 관리 매니저
+0xAA89BB57,13_credits,검수완료,총괄 오디오 디렉터
+0x584567EB,13_credits,검수완료,총괄 음악 프로듀서
+0x3B53946E,13_credits,검수완료,총괄 프로듀서
+0xD9BB36DB,13_credits,검수완료,시설 관리
+0xB666D148,13_credits,검수완료,시설 관리 매니저
+0xA99ECE48,13_credits,검수완료,재무 디렉터
+0x9F3A4087,13_credits,검수완료,재무 매니저
+0x7FEFB5FE,13_credits,검수완료,실사 영상 제작
+0xC4B590EF,13_credits,검수완료,팔로우한 아티스트
+0x1E3454C9,13_credits,검수완료,프랜차이즈 개발 디렉터
+0x304445C3,13_credits,검수완료,Frostbite 개발
+0x662C34D9,13_credits,검수완료,게임플레이 디자이너
+0x3176EF17,13_credits,검수완료,총괄 매니저 겸 총괄 프로듀서
+0xB95ADA54,13_credits,원문유지,
+0xEAD448A5,13_credits,원문유지,
+0xC74637DA,13_credits,원문유지,
+0x48139EA3,13_credits,검수완료,글로벌 커뮤니케이션 그룹
+0x44BF96CA,13_credits,검수완료,글로벌 마케팅·커뮤니케이션
+0x22557107,13_credits,검수완료,글로벌 마케팅팀
+0x35C4832D,13_credits,검수완료,글로벌 PLM 디렉터
+0xB6E88CEC,13_credits,검수완료,글로벌 PLM 매니저
+0xFAF3BBED,13_credits,검수완료,글로벌 프로세스
+0xEA3BABCA,13_credits,검수완료,글로벌 교육
+0x0634492F,13_credits,원문유지,
+0xFAC3DBC3,13_credits,검수완료,그룹 개발 디렉터
+0xBDEBF134,13_credits,검수완료,그룹 재무 디렉터
+0x8CDE6B1A,13_credits,검수완료,그룹 인사 디렉터
+0x6F0D5C93,13_credits,검수완료,인사 매니저
+0x0170B50E,13_credits,검수완료,인사 디렉터
+0x5EB5057B,13_credits,검수완료,ICOMMS 매니저
+0x0EF262E0,13_credits,원문유지,
+0xEDB332C6,13_credits,검수완료,정보 보안 전문가
+0xCADDE66A,13_credits,검수완료,국제 커뮤니케이션 디렉터
+0xCD48A074,13_credits,검수완료,국제 커뮤니케이션 디렉터
+0x3E4A84E9,13_credits,검수완료,국제 커뮤니케이션 전문가
+0xF889D785,13_credits,검수완료,국제 커뮤니케이션팀
+0x753911A2,13_credits,검수완료,국제 마케팅·커뮤니케이션
+0xAEB150EB,13_credits,검수완료,국제 제품 매니저
+0xB53A5205,13_credits,검수완료,국제화 소프트웨어 엔지니어
+0x31AB9CA8,13_credits,검수완료,국제화 소프트웨어 엔지니어링
+0x5C8492F8,13_credits,검수완료,국제화 소프트웨어 엔지니어
+0x8C16DC3B,13_credits,원문유지,
+0xFDA19986,13_credits,검수완료,IT 서비스 전문가
+0x45826229,13_credits,검수완료,IT 서비스 전문가
+0xDBAEC272,13_credits,검수완료,주니어 시네마틱 아티스트
+0x51871105,13_credits,검수완료,주니어 시네마틱 아티스트
+0xE14EA48A,13_credits,검수완료,주니어 제품 매니저
+0x305BEC85,13_credits,검수완료,리드 아티스트
+0x3BD97D78,13_credits,검수완료,리드 아티스트
+0xD0AD3964,13_credits,검수완료,시네마틱 리드 아티스트
+0x90BDBD1F,13_credits,검수완료,리드 디자이너
+0xA8756152,13_credits,검수완료,리드 디자이너
+0x957CC176,13_credits,검수완료,레벨 디자인 리드
+0xDF97A29A,13_credits,검수완료,라이팅 리드 아티스트
+0x53A19D7F,13_credits,검수완료,온라인 엔지니어링 리드
+0xDAFCD8E4,13_credits,검수완료,보안 기술감독 리드
+0x67A24845,13_credits,검수완료,소프트웨어 엔지니어링 리드
+0x01ADC0AF,13_credits,검수완료,테크니컬 아트 리드
+0x3765D6E2,13_credits,검수완료,테크니컬 아트 리드
+0x64976573,13_credits,검수완료,트랙 디자인 리드
+0x18E04D64,13_credits,검수완료,차량 아트 리드
+0xA17813D8,13_credits,검수완료,VFX 아트 리드
+0x5AD3B81F,13_credits,검수완료,운영진
+0x6350390F,13_credits,검수완료,레벨 디자인
+0x23A2D301,13_credits,검수완료,레벨 디자이너
+0x327FE585,13_credits,검수완료,라이팅 아티스트
+0x827C9678,13_credits,검수완료,라이팅 아티스트
+0xDD0D47CA,13_credits,검수완료,라이팅 디렉터
+0x106E69E4,13_credits,검수완료,라인 프로듀서
+0x29EEC051,13_credits,검수완료,라이브 운영
+0x15E260BF,13_credits,검수완료,라이브 QA
+0xBB7B288D,13_credits,검수완료,라이브 QA 프로젝트 매니저
+0x2AE03A80,13_credits,검수완료,라이브 QA 프로젝트 매니저
+0x0522E0A1,13_credits,검수완료,라이브 서비스 운영 센터
+0xC96AA974,13_credits,검수완료,리빙 게임
+0xA60AFA18,13_credits,검수완료,현지화
+0x1F801D2B,13_credits,검수완료,현지화 오디오 캡처
+0x45A9F036,13_credits,검수완료,현지화 오디오 캡처 전문가
+0xB662E3A2,13_credits,검수완료,현지화 오디오 엔지니어링
+0xB413975F,13_credits,검수완료,현지화 인증 기준 검수 담당
+0xEE1DF51E,13_credits,검수완료,현지화 언어 QA
+0xB3760725,13_credits,검수완료,현지화 프로듀서
+0x524E26ED,13_credits,검수완료,현지화 제작
+0x404A436D,13_credits,검수완료,현지화 녹음 스튜디오
+0x374509D8,13_credits,검수완료,현지화 소프트웨어 엔지니어
+0x89E84B28,13_credits,검수완료,현지화 소프트웨어 엔지니어링 프로젝트 매니저
+0xE5DB929B,13_credits,검수완료,현지화 소프트웨어 엔지니어링
+0x59040B9A,13_credits,검수완료,현지화 소프트웨어 엔지니어링 프로젝트 리드
+0x037F254A,13_credits,검수완료,현지화 소프트웨어 엔지니어
+0x1FE6452B,13_credits,검수완료,현지화 소프트웨어 엔지니어
+0xC204238E,13_credits,검수완료,현지화 소프트웨어 엔지니어
+0x9F94695A,13_credits,검수완료,현지화 인증 기준 테스트 감독
+0x922194ED,13_credits,검수완료,현지화 인증 기준 테스트 감독
+0x9733B3F4,13_credits,검수완료,현지화 테스트 리드
+0x7DAA32C7,13_credits,검수완료,현지화 테스트 리드
+0x5A6A010F,13_credits,검수완료,현지화 테스트 프로젝트 매니저
+0x070227E3,13_credits,검수완료,현지화 번역가
+0xCB2F293C,13_credits,검수완료,룩디벨롭먼트·라이팅 디렉터
+0x56AD0C0D,13_credits,검수완료,주요 출연진
+0x2F9100B4,13_credits,검수완료,매니저
+0x5DAB0A91,13_credits,검수완료,마케팅
+0xBBD44728,13_credits,검수완료,마케팅·커뮤니케이션
+0x91CDEF7C,13_credits,검수완료,마케팅 아트 디렉터
+0x6F6118BE,13_credits,검수완료,마케팅 코디네이터
+0x56550605,13_credits,원문유지,
+0x2998D75A,13_credits,검수완료,MEDIAWORKS 팀
+0xE4569915,13_credits,검수완료,음악감독
+0x94FCBE74,13_credits,검수완료,음악 마케팅 매니저
+0x8734D80A,13_credits,검수완료,내러티브
+0x9DD44349,13_credits,검수완료,내러티브·현지화 어시스턴트 프로듀서
+0xE497CC9B,13_credits,검수완료,내러티브·현지화 어시스턴트 프로듀서
+0x368B3380,13_credits,검수완료,내러티브 디렉터
+0xF76553A8,13_credits,검수완료,내러티브 프로듀서
+0x214242EF,13_credits,검수완료,네트워크 엔지니어
+0x734E6B92,13_credits,검수완료,네트워크 엔지니어링
+0xD6B7516D,13_credits,검수완료,네트워크 엔지니어링
+0x45CD1DC2,13_credits,검수완료,운영
+0xF3533B76,13_credits,검수완료,운영 엔지니어
+0xF63B73DC,13_credits,검수완료,운영 엔지니어
+0x7D7F3AE2,13_credits,검수완료,PC 소프트웨어 엔지니어
+0xF1D4BED8,13_credits,원문유지,
+0x0614E50D,13_credits,검수완료,PLM 프로젝트 부매니저
+0x13EE0CBB,13_credits,검수완료,PLM 프로젝트 코디네이터
+0x91AFA46E,13_credits,검수완료,PLM 프로젝트 코디네이터
+0xAB5865D2,13_credits,검수완료,PLM 프로젝트 매니저
+0x16652065,13_credits,검수완료,PLM 프로젝트 매니저
+0x3187D6C1,13_credits,검수완료,PLM 시니어 프로젝트 매니저
+0x998D483A,13_credits,검수완료,프레젠테이션
+0x05A7B43D,13_credits,검수완료,프로듀서
+0xBA9E3C30,13_credits,검수완료,프로듀서
+0x70534634,13_credits,검수완료,제품 매니저
+0xA4AE6620,13_credits,검수완료,제품 마케팅
+0x0C0F0DD5,13_credits,검수완료,제품 마케팅 매니저
+0x652D09E5,13_credits,검수완료,프로덕션
+0xDB1DC4DB,13_credits,검수완료,제작 기간에 태어난 아이들
+0x033519E3,13_credits,검수완료,제작 코디네이터
+0x69D85696,13_credits,검수완료,제작 코디네이터
+0xCDFA60F2,13_credits,검수완료,프로그램 관리
+0x3B9B054B,13_credits,검수완료,프로그램 매니저
+0xAEFBAEFE,13_credits,검수완료,프로그램 매니저
+0xB70E5553,13_credits,검수완료,프로젝트 코디네이터
+0x5CB5BB15,13_credits,검수완료,프로젝트 리더십
+0x5B950E9E,13_credits,검수완료,프로젝트 리드
+0x403C226A,13_credits,검수완료,프로젝트 매니저
+0x8F326C0B,13_credits,검수완료,홍보 전문가
+0x02036201,13_credits,원문유지,
+0x94B09B07,13_credits,원문유지,
+0x6F0D5DAB,13_credits,원문유지,
+0x692B331A,13_credits,검수완료,QA 엔지니어링
+0xD2046C8C,13_credits,검수완료,QA 관리
+0xA133C245,13_credits,검수완료,QA 매니저
+0xC7AC0B38,13_credits,검수완료,QA 매니저
+0xB76C4DD7,13_credits,검수완료,QA 프로젝트 리드
+0x7089FCE9,13_credits,검수완료,QA 프로젝트 리드
+0xA4F6090A,13_credits,검수완료,QA 프로젝트 리드
+0x634BA087,13_credits,검수완료,QA 프로젝트 매니저
+0xF10884AE,13_credits,검수완료,QA 프로젝트 매니저
+0xC54C5ACB,13_credits,검수완료,QA 기술
+0x4C86F9DF,13_credits,검수완료,QA 테스트 리드
+0xDD663612,13_credits,검수완료,QA 테스트 리드
+0x0533E83A,13_credits,검수완료,QSPR 디렉터
+0x3DA19941,13_credits,검수완료,품질 보증(QA)
+0x8C16DD30,13_credits,검수완료,품질 보증(QA)
+0x44044AB2,13_credits,검수완료,품질 디자이너
+0xEA8D4F11,13_credits,검수완료,출시 준비 매니저
+0x938AF22D,13_credits,검수완료,RPM 서비스 리드
+0xF1D4C7DE,13_credits,검수완료,RPM 서비스 관리
+0x6F9D9F8A,13_credits,검수완료,시니어 아트 디렉터
+0xE22AD81F,13_credits,검수완료,시니어 아티스트
+0x2785DC52,13_credits,검수완료,시니어 아티스트
+0x59FB0570,13_credits,검수완료,시니어 오디오 아티스트
+0x9E86BCCA,13_credits,검수완료,시니어 오디오 디자이너
+0xA72335D4,13_credits,검수완료,시니어 커뮤니케이션 매니저
+0xFBBAC40B,13_credits,검수완료,시니어 커뮤니케이션 매니저
+0xF1F5F739,13_credits,검수완료,시니어 디자이너
+0x30B4DEAC,13_credits,검수완료,시니어 디자이너
+0xA9C28458,13_credits,검수완료,시니어 개발자 관계 매니저
+0xD7076190,13_credits,검수완료,시니어 개발 디렉터
+0x30704B39,13_credits,검수완료,시니어 개발 디렉터
+0xA2D474A5,13_credits,검수완료,시니어 개발 매니저
+0x233F48E4,13_credits,검수완료,시니어 디렉터
+0x1923E217,13_credits,검수완료,시니어 재무 매니저
+0xBCA30314,13_credits,검수완료,시니어 국제화 소프트웨어 엔지니어
+0x9F745B72,13_credits,검수완료,시니어 국제화 소프트웨어 엔지니어링
+0x596A4D30,13_credits,검수완료,시니어 리눅스 시스템 엔지니어링 리드
+0x0022CC56,13_credits,검수완료,시니어 매니저
+0x9B27D7A3,13_credits,검수완료,시니어 매니저
+0xD2418C17,13_credits,검수완료,네트워크 엔지니어링 시니어 매니저
+0xED63BCB8,13_credits,검수완료,소프트웨어 엔지니어링 시니어 매니저
+0x1AB3C4A5,13_credits,검수완료,시스템 엔지니어링 시니어 매니저
+0xC0F4C04A,13_credits,검수완료,시니어 음악 슈퍼바이저
+0xE419690C,13_credits,검수완료,시니어 프로듀서
+0x67468ADF,13_credits,검수완료,시니어 프로듀서
+0xD88D9C23,13_credits,검수완료,시니어 제품 매니저
+0xEA4120D6,13_credits,검수완료,시니어 제품 매니저
+0xA3D55B3A,13_credits,검수완료,시니어 프로그램 매니저
+0x1E80C2CD,13_credits,검수완료,시니어 프로그램 매니저
+0x0B6C4307,13_credits,검수완료,시니어 퍼블리싱 협력 매니저
+0x62BF3E35,13_credits,검수완료,시니어 QA 디렉터
+0xE2E5E6D4,13_credits,검수완료,시니어 QA 매니저
+0x75CE7F9F,13_credits,검수완료,시니어 소프트웨어 엔지니어
+0x2F9E73D2,13_credits,검수완료,시니어 소프트웨어 엔지니어
+0x020BAA0C,13_credits,검수완료,시니어 시스템 엔지니어
+0x212374C9,13_credits,검수완료,시니어 테크니컬 아티스트
+0x6D388282,13_credits,검수완료,시니어 테크니컬 아티스트
+0xB934098D,13_credits,검수완료,시니어 기술 매니저
+0x31A73C72,13_credits,검수완료,시니어 VFX 아티스트
+0xE2F03AD1,13_credits,검수완료,수석 부사장 겸 그룹 총괄 매니저
+0x068089EC,13_credits,검수완료,시니어 윈도우 시스템 엔지니어링 리드
+0x77981192,13_credits,검수완료,서비스 운영
+0x3128D484,13_credits,검수완료,소셜·커뮤니티 매니저
+0x56436557,13_credits,검수완료,소셜·커뮤니티 매니저
+0x99CCFF69,13_credits,검수완료,소셜 리드
+0xC872C48E,13_credits,검수완료,소셜 리드
+0x1B987605,13_credits,검수완료,소셜 지원 리드
+0xC877279F,13_credits,검수완료,소셜팀
+0x15A6F1F0,13_credits,검수완료,소프트웨어 엔지니어
+0xCA853043,13_credits,검수완료,소프트웨어 엔지니어
+0xBA37D246,13_credits,원문유지,
+0x3DD481E3,13_credits,검수완료,특별 감사
+0xAD002448,13_credits,검수완료,특별 감사
+0xB81ACD6C,13_credits,검수완료,음성 연출 감독
+0x381B4582,13_credits,검수완료,Spry 디렉터
+0xF1D4CC61,13_credits,검수완료,SRM
+0x63D2BC36,13_credits,검수완료,스튜디오 운영진
+0xB9B37238,13_credits,검수완료,스튜디오 리드
+0x981DB7BD,13_credits,검수완료,총괄 기술감독
+0xBA473E43,13_credits,검수완료,조연 출연진
+0x9286963D,13_credits,검수완료,시스템 엔지니어
+0x1F2989FB,13_credits,검수완료,시스템 엔지니어링
+0xBBC0A420,13_credits,검수완료,시스템 엔지니어링
+0x4F765CDA,13_credits,검수완료,팀 매니저
+0xD43830A8,13_credits,검수완료,테크니컬 아트
+0x93A920A5,13_credits,검수완료,테크니컬 아트 디렉터
+0xB19E60FA,13_credits,검수완료,테크니컬 아티스트
+0xF541CC13,13_credits,검수완료,테크니컬 아티스트
+0xE56A808D,13_credits,검수완료,테크니컬 아티스트
+0x9DB8747F,13_credits,검수완료,기술감독
+0x54C704B2,13_credits,검수완료,기술감독
+0xC2200B99,13_credits,검수완료,테크니컬 리드
+0xEEBF4EB1,13_credits,검수완료,기술 리드
+0xEAB60A65,13_credits,검수완료,테크니컬 슈퍼바이저
+0x41775758,13_credits,검수완료,테크니컬 슈퍼바이저
+0xE72D900E,13_credits,검수완료,테스트 리드
+0xAE15B2BC,13_credits,검수완료,테스트 전문가
+0xF2BD76FE,13_credits,검수완료,트랙 디자이너
+0xAB45CB6C,13_credits,검수완료,U 리드
+0xACAF0378,13_credits,검수완료,UI 아트 디렉터
+0x171C0612,13_credits,검수완료,UI 아트 리드
+0x7B33618D,13_credits,검수완료,UI 아티스트
+0xA515C4FE,13_credits,검수완료,UI 아티스트
+0xE19F9380,13_credits,검수완료,UI 아티스트
+0x8F011FB7,13_credits,검수완료,UI 테크니컬 아티스트
+0xED454FF0,13_credits,원문유지,
+0x51901DCD,13_credits,검수완료,사용자 인터페이스
+0x64C9C594,13_credits,검수완료,유틸리티
+0xB3D7025A,13_credits,검수완료,차량 아트 디렉터
+0xA7065EEF,13_credits,검수완료,차량 아티스트
+0x87D23D22,13_credits,검수완료,차량 아티스트
+0x3A3D6B6F,13_credits,검수완료,차량 제조사
+0x0EF29972,13_credits,원문유지,
+0xEFF517E3,13_credits,검수완료,VFX 아티스트
+0xA28F5D38,13_credits,검수완료,VFX 리드 아티스트
+0xDE8EFB30,13_credits,검수완료,부사장 겸 그룹 총괄 매니저
+0x00B05BEB,13_credits,원문유지,
+0x34CEE0F4,13_credits,원문유지,
+0xB8B1A717,13_credits,검수완료,가상머신 플랫폼 / 자동화
+0xC87B8EC5,13_credits,검수완료,가상머신 플랫폼 자동화
+0x919EB6D6,13_credits,검수완료,성우진
+0x74B7FCB2,13_credits,검수완료,성우 녹음
+0xEDFD6747,13_credits,검수완료,웹 디자이너
+0x83F70682,13_credits,검수완료,월드 아트 디렉터
+0xB258141C,13_credits,검수완료,월드 아트 리드
+0xE690F6B8,13_credits,검수완료,글로벌 고객 경험
+0x6FC35740,13_credits,검수완료,랩핑 아티스트
+0xED46EC77,13_credits,원문유지,

@@ -1,0 +1,91 @@
+{
+  "schema": "nfs16.font-routing.v1",
+  "status": "staging_only_not_applied_to_game",
+  "locale": "LanguageFormat_English",
+  "strategy": "Assign fonts through UIElementFontStyle FontLookup; validate UI-widget consumers before applying.",
+  "globalLatinPolicy": "Preserve original DIN in numeric/English-only widgets. Mixed Korean/Latin widgets use the selected open licensed font unless a safe local-only DIN fallback can be implemented.",
+  "roles": {
+    "headline": {
+      "family": "SUITE",
+      "weight": "Heavy",
+      "file": ".external/fonts/vendor/SUITE-Heavy.ttf"
+    },
+    "section": {
+      "family": "SUITE",
+      "weight": "ExtraBold",
+      "file": ".external/fonts/vendor/SUITE-ExtraBold.ttf"
+    },
+    "menu": {
+      "family": "NFSKR UI Text",
+      "weight": "SemiBold",
+      "file": ".external/fonts/derived/NFSKR-UI-Text-SemiBold.ttf"
+    },
+    "menu_strong": {
+      "family": "NFSKR UI Text",
+      "weight": "Bold",
+      "file": ".external/fonts/derived/NFSKR-UI-Text-Bold.ttf"
+    },
+    "subtitles": {
+      "family": "NFSKR UI Text",
+      "weight": "Medium",
+      "file": ".external/fonts/derived/NFSKR-UI-Text-Medium.ttf"
+    },
+    "details": {
+      "family": "SUIT",
+      "weight": "Medium",
+      "file": ".external/fonts/vendor/SUIT-Medium.ttf"
+    },
+    "small_text": {
+      "family": "SUIT",
+      "weight": "Regular",
+      "file": ".external/fonts/vendor/SUIT-Regular.ttf"
+    },
+    "original": {
+      "family": "original DIN / digital numeric font",
+      "weight": "unchanged",
+      "file": null
+    }
+  },
+  "matchingPriority": [
+    "explicit_UI_widget_context",
+    "named_style_exception",
+    "style_weight_and_size"
+  ],
+  "provisionalStyleRoles": {
+    "UI/Fonts/DINPro-Cond-170": "headline",
+    "UI/Fonts/DINPro-Medium-Cond-170": "headline",
+    "UI/Fonts/DINPro-Cond-128": "headline",
+    "UI/Fonts/DINPro-Cond-96": "section",
+    "UI/Fonts/DINPro-Medium-Cond-96": "section",
+    "UI/Fonts/DINPro-Bold-Cond-96": "headline",
+    "UI/Fonts/DINPro-Cond-90": "section",
+    "UI/Fonts/WrapEditor/DINPro-Bold-Cond-72": "section",
+    "UI/Fonts/WrapEditor/DINPro-Medium-Cond-72": "section",
+    "UI/Fonts/WrapEditor/DINPro-Cond-72": "section",
+    "UI/Fonts/DINPro-Cond-64": "section",
+    "UI/Fonts/DINPro-Medium-Cond-64": "section",
+    "UI/Fonts/DINPro-Bold-Cond-64": "section",
+    "UI/Fonts/DINPro-Cond-48": "menu",
+    "UI/Fonts/DINPro-Medium-Cond-48": "menu",
+    "UI/Fonts/DINPro-Bold-Cond-48": "menu_strong",
+    "UI/Fonts/DINPro-Cond-40": "menu",
+    "UI/Fonts/DINPro-Medium-Cond-40": "menu",
+    "UI/Fonts/DINPro-Bold-Cond-40": "menu_strong",
+    "UI/Fonts/DINPro-Cond-32": "menu",
+    "UI/Fonts/DINPro-Medium-Cond-32": "menu",
+    "UI/Fonts/DINPro-Bold-Cond-32": "menu_strong",
+    "UI/Fonts/DINPro-Cond-28": "small_text",
+    "UI/Fonts/DINPro-Medium-Cond-28": "details",
+    "UI/Fonts/DINPro-Cond-24": "small_text",
+    "UI/Fonts/DINPro-Bold-Cond-24": "details",
+    "UI/fonts/DINPro-Cond-18": "small_text",
+    "UI/Fonts/PlaceholderFontSmall": "small_text",
+    "UI/Fonts/PlaceholderFontMedium": "details",
+    "UI/Fonts/DigitalSpeedometer": "original"
+  },
+  "unresolved": [
+    "Find subtitle/HUD UIWidgetBlueprint font-style references and override shared styles only where needed.",
+    "Validate font atlas/load support and text clipping in-game before applying all mappings.",
+    "Package font edits in a distributable mod without bundling proprietary EA DIN font binaries."
+  ]
+}

@@ -1,0 +1,64 @@
+name: "번역 피드백"
+description: "오역·어색한 표현·인물/용어 표기·줄바꿈 문제를 제보해 주세요."
+title: "[번역] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        NFSKR 번역 개선 제보 고마워요!
+        스크린샷에 계정 정보·온라인 닉네임 등 개인정보가 있다면 가린 뒤 첨부해 주세요.
+  - type: dropdown
+    id: category
+    attributes:
+      label: 피드백 종류
+      options:
+        - 오역 / 의미 오류
+        - 맞춤법 / 띄어쓰기
+        - 인물 이름 / 용어 표기
+        - 자막 / 줄바꿈 / 표시 문제
+        - 기타
+    validations:
+      required: true
+  - type: input
+    id: scene
+    attributes:
+      label: 등장 위치 / 상황
+      description: 미션, 메뉴, 스토리 진행 시점 또는 화면 위치
+      placeholder: "예: 초반 차고에서 마누를 소개하는 대사"
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: 현재 한국어 문구
+      placeholder: "게임에 표시되는 문장을 가능한 한 그대로 적어 주세요."
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 수정 제안
+      placeholder: "더 정확하거나 자연스러운 번역을 제안해 주세요."
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 이유 및 스크린샷
+      description: 이 칸에 이미지 파일을 붙여 넣으면 스크린샷을 첨부할 수 있어요.
+    validations:
+      required: false
+  - type: input
+    id: version
+    attributes:
+      label: 한국어 패치 버전
+      value: "v1.1"
+    validations:
+      required: true
+  - type: checkboxes
+    id: checked
+    attributes:
+      label: 중복 확인
+      options:
+        - label: 기존 이슈에 같은 피드백이 없는지 확인했습니다.
+          required: true
