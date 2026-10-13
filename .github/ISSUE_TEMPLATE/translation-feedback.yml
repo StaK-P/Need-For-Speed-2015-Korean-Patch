@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        NFSKR 번역 개선 제보 고마워요!
+        NFSKR 번역 개선을 위해 제보해 주셔서 감사합니다.
         스크린샷에 계정 정보·온라인 닉네임 등 개인정보가 있다면 가린 뒤 첨부해 주세요.
   - type: dropdown
     id: category
