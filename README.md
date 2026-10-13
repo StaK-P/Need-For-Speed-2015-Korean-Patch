@@ -32,8 +32,8 @@
 
 ## 처음 설치하는 방법
 
-1. **정품 Need for Speed (2015)**를 PC에 설치한 뒤 게임과 Frosty Mod Manager를 모두 종료해 주세요.
-2. **[v1.1 릴리즈 페이지](https://github.com/StaK-P/Need-For-Speed-2015-Korean-Patch/releases/tag/v1.1)**에서 `NFSKR-Setup.exe`를 다운로드해 실행해 주세요. Python을 별도로 설치하실 필요는 없습니다.
+1. 정품 Need for Speed (2015)를 PC에 설치한 뒤 게임과 Frosty Mod Manager를 모두 종료해 주세요.
+2. [v1.1 릴리즈 페이지](https://github.com/StaK-P/Need-For-Speed-2015-Korean-Patch/releases/tag/v1.1)에서 `NFSKR-Setup.exe`를 다운로드해 실행해 주세요. Python을 별도로 설치하실 필요는 없습니다.
 3. 설치 프로그램이 게임과 Frosty의 경로를 확인할 때까지 기다려 주세요. Frosty가 설치되어 있지 않다면 공식 배포처의 필요한 구성요소를 준비하도록 안내합니다.
 4. **병합 기준 프로필**에서 `Default` 등 기존 Frosty 원본 프로필을 선택한 다음, 함께 적용할 모드를 체크해 주세요.
 5. 처음 설치하시는 경우 **설치**, 기존 한국어 패치가 설치되어 있다면 **업데이트**를 눌러 주세요. 작업이 끝나면 진행 상태에 **패치 완료 · 100%**가 표시됩니다.
